@@ -126,7 +126,7 @@ The verification results are included with the agent outputs, providing transpar
 
 ### Input Data
 
-The system includes sample patient data in JSON format:
+The system includes sample patient data in JSON format, there is also an option to add CSV:
 
 ```json
 {
