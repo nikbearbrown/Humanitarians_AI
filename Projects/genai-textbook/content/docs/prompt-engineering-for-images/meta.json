@@ -1,0 +1,8 @@
+{
+    "title": "Prompt Engineering for Images",
+    "pages": [
+        "crafting-descriptive-prompts-for-image-generation",
+        "modifiers-style-detail-color",
+        "debugging-and-refining-image-outputs"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "title": "Open-Source AI Ecosystems",
+    "pages": [
+        "hugging-face-models-datasets-and-applications",
+        "langflow-dify-botpress-for-custom-workflows",
+        "setting-up-local-models-with-ollama"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "title": "Multimodal LLMs",
+    "pages": [
+        "what-are-multimodal-models",
+        "tools-clip-hugging-face-google-gemini",
+        "use-cases-image-captioning-document-analysis"
+    ]
+}

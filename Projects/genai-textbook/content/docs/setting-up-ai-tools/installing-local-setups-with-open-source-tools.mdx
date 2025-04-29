@@ -1,0 +1,83 @@
+---
+title: "Installing Local Setups with Open-Source Tools"
+description: "Guide to installing local AI setups using open-source tools like Ollama and NotebookLM."
+---
+
+This guide walks you through setting up local AI environments using open-source tools like **Ollama** for offline LLMs and **NotebookLM** for research and note-taking.
+
+## 1. Setting Up Ollama for Offline LLMs
+
+Ollama allows you to run large language models (LLMs) locally without an internet connection.
+
+### **Installation Process**
+
+#### **Windows (via WSL)**
+```bash
+wsl --install
+curl -fsSL https://ollama.ai/install.sh | sh
+```
+
+#### **Mac (via Homebrew)**
+```bash
+brew install ollama
+ollama serve
+```
+
+#### **Linux (Ubuntu/Debian)**
+```bash
+sudo apt update && sudo apt install -y curl
+curl -fsSL https://ollama.ai/install.sh | sh
+```
+
+### **Running an LLM Locally**
+```bash
+ollama pull llama3
+ollama run llama3
+```
+
+#### **Expected Output:**
+```plaintext
+> llama3 is running
+Welcome! How can I assist you today?
+```
+
+---
+
+## 2. Setting Up NotebookLM for Research
+
+NotebookLM is an AI-powered research and note-taking tool designed for document analysis.
+
+### **Installation Steps**
+```bash
+git clone https://github.com/google/notebooklm.git
+cd notebooklm
+pip install -r requirements.txt
+python app.py
+```
+
+#### **Access NotebookLM at:**
+```plaintext
+http://localhost:8000
+```
+
+### **Table: Comparison of Ollama and NotebookLM**
+
+| Feature        | Ollama | NotebookLM |
+|---------------|--------|------------|
+| Offline Mode  | ✅     | ✅         |
+| LLM Support  | ✅     | ❌         |
+| Document AI  | ❌     | ✅         |
+| Installation  | Easy   | Moderate   |
+
+---
+
+## **Final Thoughts**
+- **Ollama** is ideal for running **offline AI models**, ensuring **privacy** and **low latency**.
+- **NotebookLM** provides an **AI-assisted research environment**, making document management easier.
+
+
+
+
+
+
+

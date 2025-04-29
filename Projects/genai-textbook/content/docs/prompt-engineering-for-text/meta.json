@@ -1,0 +1,8 @@
+{
+    "title": "Prompt Engineering for Text",
+    "pages": [
+        "zero-shot-few-shot-and-chain-of-thought-prompting",
+        "writing-effective-prompts-for-different-tools",
+        "examples-and-practice-exercises"
+    ]
+}
