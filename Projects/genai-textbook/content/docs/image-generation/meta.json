@@ -1,9 +1,0 @@
-{
-    "title": "Image Generation",
-    "pages": [
-        "introduction-to-tools-dalle-midjourney-stable-diffusion",
-        "how-to-generate-images-from-text-prompts",
-        "editing-and-refining-generated-images",
-        "open-source-options-hugging-face-models"
-    ]
-}
