@@ -19,15 +19,6 @@ The project is built using [**MCP (Model Context Protocol)**](https://modelconte
 
 ---
 
-## 🧬 What is MCP?
-
-**MCP (Model Context Protocol)** 
-
-Introduced November 2024 by Anthropic as an open-source protocol, MCP allows for the integration between LLM applications and external data sources and tools.
-
-In this project, calendar scheduling and holiday detection are offloaded to **dedicated MCP tool servers** — making the system highly modular and extensible.
-
----
 
 ## 🚀 Features
 
@@ -127,6 +118,18 @@ uv run streamlit run ui.py
 📅 ICS calendar download and multi-timezone support
 
 👤 Optional user authentication for enterprise use
+
+---
+
+## 🧬 What is MCP?
+
+**MCP (Model Context Protocol)** 
+
+Introduced November 2024 by Anthropic as an open-source protocol, MCP allows for the integration between LLM applications and external data sources and tools.
+
+In this project, calendar scheduling and holiday detection are offloaded to **dedicated MCP tool servers** — making the system highly modular and extensible.
+
+---
 
 ## 👩‍💻 Author
 
