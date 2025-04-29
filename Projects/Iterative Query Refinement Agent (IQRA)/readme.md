@@ -120,37 +120,37 @@ Below is an example run refining the query **"what are eclipses?"**.
 
 ### Generated Query Variations
 
-![Step 1: Generated Query Variations](Step 1 - Query Variations.png)
+![Step 1: Generated Query Variations](images/Step1.png)
 
 *Displays three reformulated queries exploring definition, frequency, and cause of eclipses.*
 
 ### Processing Variations
 
-![Step 2: Processing Variations](Step 2 - Process Variations.png)
+![Step 2: Processing Variations](images/Step2.png)
 
 *Shows the Wikipedia context retrieval and LLM responses for each variation.*
 
 ### Key Insights Extraction
 
-![Step 3: Key Insights](Step 3 - Key Insights.png)
+![Step 3: Key Insights](images/Step3.png)
 
 *Extracts a single core insight from each LLM response.*
 
 ### Final Refined Answer
 
-![Step 4: Refined Answer](Step 4 - Refined Answer.png)
+![Step 4: Refined Answer](images/Step4.png)
 
 *Combines the extracted insights into an overview, bullet points, and a conclusion.*
 
 ### Direct Answer Comparison
 
-![Step 5: Direct Answer](Step 5 - Direct Answer.png)
+![Step 5: Direct Answer](images/Step5.png)
 
 *Presents the direct LLM answer for benchmark comparison.*
 
 ### Benchmarking Analysis
 
-![Step 6: Benchmarking Analysis](Step 6 - Benchmarking Analysis.png)
+![Step 6: Benchmarking Analysis](images/Step6.png)
 
 *Compares processing time, word count, sources used, and variations processed.*
 
