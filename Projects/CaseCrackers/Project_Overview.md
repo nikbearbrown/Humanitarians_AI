@@ -21,7 +21,8 @@
 
 ## 🌐 Live Demo  
 
-👉 **Try it now:** <https://case-crackers.streamlit.app/>
+- **Try it now:** <https://case-crackers.streamlit.app/>
+- **Demo:** <https://www.youtube.com/watch?v=bIHzRY70m-8>
 
 ---
 
@@ -50,31 +51,91 @@
 
 ### 1. Case Library
 
-A searchable, filterable catalogue of every case (real & user-generated) with metadata such as industry, difficulty, creation date, and popularity. Use the sidebar filters or search bar to narrow results, then open a case for details or save it to your personal shortlist.
+![Media4](https://github.com/user-attachments/assets/88df7212-d046-4008-8e28-2ef6b2e34b22)
+
+Case Library is an extensive resource ideal for students, researchers, professionals, and educators to explore real-world scenarios and apply theoretical knowledge across various domains.
+
+-  Includes a wide range of user-generated case studies across multiple industries and topics.
+- Allows users to easily locate specific case studies based on criteria like industry, difficulty level, and topic.
+
 
 ---
 
 ### 2. Case Generation
 
-A form-based wizard where you pick *Case Type*, *Style*, *Difficulty*, and provide a short *Subject* prompt. Click **Generate Case** and the AI crafts a brand-new case plus interviewer notes. You can launch it directly into the Interview Bot or add it to the Library.
+![Media1](https://github.com/user-attachments/assets/a22746ea-7832-4b4e-a8da-38cca310ad32)
+
+The Case Crackers platform employs sophisticated AI to generate custom case studies that align with your unique educational or business requirements, according to the specifications you set.
+
+- Custom AI-crafted case studies.
+- Goal-oriented content design.
+- Innovative AI insights.
+
+**Benefits:**
+
+- Simplified custom case study creation.
+- New insights beyond standard materials.
+- Affordable subscription model
+
+**Usage:**
+
+- **Case Type Selection:** Choose the type of case you'll be working on.
+- **Case Study Style:** Decide between an Interviewer-led or Candidate-led approach.
+- **Subject Entry:** Input the specific subject matter of your case study.
+- **Difficulty Level:** Select the level of difficulty appropriate for your case study.
+- **Process:** Hit the 'Process' button to create your customized case study.
 
 ---
 
 ### 3. Case Interview Bot
 
-A chat interface that mimics a live consulting interview. The transcript appears on the left; a scratchpad, timer, and scoring rubric sit on the right. Select a case, click **Start Interview**, and converse with the bot. When finished, download a detailed feedback report.
+![Media2](https://github.com/user-attachments/assets/f9e2b635-e879-4e2d-a8c1-89f813681adc)
+
+The system delivers engaging interview simulations, complete with the perk of offering immediate and constructive feedback.
+
+- Realistic case interview simulation
+- Guided problem-solving assistance
+
+**Benefits:**
+
+- AI bots replace human interviewers.
+- They master case studies instantly.
+- They efficiently conduct interviews across diverse fields.
+
+**Usage:**
+
+- **Choose Your Style:** Select either an Interviewer-led or Candidate-led case study approach.
+- **Pick Your Case Study:** Choose the specific case study you want to practice.
+- **Generate the Case:** Click on the 'Process' button to create the case study.
+- **Initiate the Interview:** Begin the conversation to start the case interview process.
+- **Engage in the Case:** Dive into the details and nuances of your chosen case study.
 
 ---
 
 ### 4. Business Solution Bot
 
-Paste (or upload) a real business problem into a guided form. The bot analyses objectives, constraints, and context, then returns a MECE framework, risk assessment, and next-step recommendations you can export straight to PowerPoint.
+![Media3](https://github.com/user-attachments/assets/a07cd2b1-ac9c-455c-b79b-c613dd256a2e)
+
+**Problem Analysis and Goal Setting:**
+- Define the main problem your company is facing.
+- State your goals for solving this problem.
+- Consider relevant resources and constraints.
+- Review previous strategies or attempts made.
+
+**Solution Generation:**
+- Click the 'Process' button to receive a comprehensive framework and recommendations tailored to address your specific business problem.
 
 ---
 
 ### 5. Dashboard
 
-Interactive charts (built with Plotly) display global and personal metrics: case popularity over time, success rates by difficulty, learning-curve heat maps, and competency gaps. Toggle filters (date range, industry, difficulty) and export visuals as PNG or CSV.
+![Media5](https://github.com/user-attachments/assets/fec2d0db-73c5-4d4e-b246-bc3a6e68ba77)
+
+Dashboard is designed for users who need an aggregated view of the case studies' data. It is ideal for educators, analysts, and students who require a quick overview of trends and statistics in various domains.
+
+- Provides statistical data on different types of case studies
+
+- Users can interact with various elements like graphs and charts to get a customized view of the data
 
 ---
 
