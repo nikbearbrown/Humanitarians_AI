@@ -27,7 +27,7 @@ We discovered clear preferences based on AI knowledge level, with beginners grav
 💡 **Moving Forward:**
 We're using these insights to develop a comprehensive workshop program that addresses the most in-demand topics, accommodates various knowledge levels, and overcomes identified barriers to participation.
 
-The full report is available here: **Summer 2025 AI Workshop Interest Survey Report**
+The survey can still be taken here
 https://neu.co1.qualtrics.com/jfe/form/SV_5d2OmkNnmhZ03Ea
 
 
