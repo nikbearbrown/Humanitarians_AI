@@ -1,0 +1,150 @@
+Country name,Regional indicator,Ladder score (Happiness),Logged GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption,UrbanPop%,UrbanPopMln,RuralPopMln,Fert. Rate,Med. Age,Population_m,Type,Subtype,regime,sub_regime
+Hong Kong S.A.R. of China,East Asia,5.477,11,0.836,76.82,0.717,0.067,0.403,100,7.508,0,1.3,45,7.508,Democracy,Parliamentary Democracy,1,6
+Czech Republic,Central and Eastern Europe,6.965,10.556,0.947,70.807,0.858,-0.208,0.868,74,7.927,2.785,1.6,43,10.712,Democracy,Parliamentary Democracy,1,6
+Hungary,Central and Eastern Europe,5.992,10.358,0.943,68,0.755,-0.186,0.876,72,6.952,2.704,1.5,43,9.656,Democracy,Parliamentary Democracy,1,6
+Japan,East Asia,5.94,10.611,0.884,75.1,0.796,-0.258,0.638,92,116.295,10.112,1.4,48,126.407,Democracy,Parliamentary Democracy,1,6
+Nepal,South Asia,5.269,8.12,0.774,64.233,0.782,0.152,0.727,21,6.137,23.088,1.9,25,29.225,Democracy,Parliamentary Democracy,1,6
+Slovenia,Central and Eastern Europe,6.461,10.529,0.948,71.4,0.949,-0.101,0.806,55,1.143,0.936,1.6,45,2.079,Democracy,Parliamentary Democracy,1,6
+Italy,Western Europe,6.483,10.623,0.88,73.8,0.693,-0.084,0.866,69,41.708,18.738,1.3,47,60.446,Democracy,Parliamentary Democracy,1,6
+Spain,Western Europe,6.491,10.571,0.932,74.7,0.761,-0.081,0.745,80,37.406,9.352,1.3,45,46.758,Democracy,Parliamentary Democracy,1,6
+Pakistan,South Asia,4.934,8.458,0.651,58.709,0.726,0.098,0.787,35,77.564,144.049,3.6,23,221.613,Democracy,Parliamentary Democracy,1,6
+Jamaica,Latin America and Caribbean,6.309,9.186,0.877,67.5,0.89,-0.137,0.884,55,1.63,1.333,2,31,2.963,Democracy,Parliamentary Democracy,1,6
+Latvia,Central and Eastern Europe,6.032,10.315,0.927,67.1,0.715,-0.162,0.8,69,1.299,0.583,1.7,44,1.882,Democracy,Parliamentary Democracy,1,6
+Malta,Western Europe,6.602,10.674,0.931,72.2,0.927,0.133,0.653,93,0.411,0.031,1.5,43,0.442,Democracy,Parliamentary Democracy,1,6
+Mauritius,Sub-Saharan Africa,6.049,10.008,0.905,66.701,0.867,-0.054,0.789,41,0.522,0.75,1.4,37,1.272,Democracy,Parliamentary Democracy,1,6
+India,South Asia,3.819,8.755,0.603,60.633,0.893,0.089,0.774,35,483.821,898.524,2.2,28,1382.345,Democracy,Parliamentary Democracy,1,6
+Belgium,Western Europe,6.834,10.823,0.906,72.199,0.783,-0.153,0.646,98,11.366,0.232,1.7,42,11.598,Democracy,Parliamentary Democracy,1,6
+Moldova,Commonwealth of Independent States,5.766,9.454,0.857,65.699,0.822,-0.079,0.918,43,1.734,2.298,1.3,38,4.032,Democracy,Parliamentary Democracy,1,6
+United Kingdom,Western Europe,7.064,10.707,0.934,72.5,0.859,0.233,0.459,83,56.397,11.551,1.8,40,67.948,Democracy,Parliamentary Democracy,1,6
+Thailand,Southeast Asia,5.985,9.805,0.888,67.401,0.884,0.287,0.895,51,35.614,34.217,1.5,40,69.831,Democracy,Parliamentary Democracy,1,6
+Denmark,Western Europe,7.62,10.933,0.954,72.7,0.946,0.03,0.179,88,5.1,0.696,1.8,42,5.796,Democracy,Parliamentary Democracy,1,6
+Estonia,Central and Eastern Europe,6.189,10.481,0.941,68.8,0.909,-0.106,0.527,68,0.902,0.425,1.6,42,1.327,Democracy,Parliamentary Democracy,1,6
+Canada,North America and ANZ,7.103,10.776,0.926,73.8,0.915,0.089,0.415,81,30.618,7.181,1.5,41,37.799,Democracy,Parliamentary Democracy,1,6
+Germany,Western Europe,7.155,10.873,0.903,72.5,0.875,0.011,0.46,76,63.712,20.119,1.6,46,83.831,Democracy,Parliamentary Democracy,1,6
+Israel,Middle East and North Africa,7.157,10.575,0.939,73.503,0.8,0.031,0.753,93,8.071,0.608,3,30,8.679,Democracy,Parliamentary Democracy,1,6
+Australia,North America and ANZ,7.183,10.796,0.94,73.9,0.914,0.159,0.442,86,21.974,3.577,1.8,38,25.551,Democracy,Parliamentary Democracy,1,6
+Greece,Western Europe,5.723,10.279,0.823,72.6,0.582,-0.288,0.823,85,8.852,1.562,1.3,46,10.414,Democracy,Parliamentary Democracy,1,6
+New Zealand,North America and ANZ,7.277,10.643,0.948,73.4,0.929,0.134,0.242,87,4.201,0.628,1.9,38,4.829,Democracy,Parliamentary Democracy,1,6
+Luxembourg,Western Europe,7.324,11.647,0.908,72.6,0.907,-0.034,0.386,88,0.552,0.076,1.5,40,0.628,Democracy,Parliamentary Democracy,1,6
+Sweden,Western Europe,7.363,10.867,0.934,72.7,0.945,0.086,0.237,88,8.897,1.213,1.9,41,10.11,Democracy,Parliamentary Democracy,1,6
+Norway,Western Europe,7.392,11.053,0.954,73.3,0.96,0.093,0.27,83,4.506,0.923,1.7,40,5.429,Democracy,Parliamentary Democracy,1,6
+Netherlands,Western Europe,7.464,10.932,0.942,72.4,0.913,0.175,0.338,92,15.77,1.372,1.7,43,17.142,Democracy,Parliamentary Democracy,1,6
+Albania,Central and Eastern Europe,5.117,9.52,0.697,68.999,0.785,-0.03,0.901,63,1.813,1.064,1.6,36,2.877,Democracy,Parliamentary Democracy,1,6
+Kosovo,Central and Eastern Europe,6.372,9.318,0.821,63.813,0.869,0.257,0.917,38,0.734,1.199,1.95,30.5,1.933,Democracy,Parliamentary Democracy,1,6
+Bulgaria,Central and Eastern Europe,5.266,10.016,0.931,67,0.788,-0.096,0.932,76,5.274,1.665,1.6,45,6.939,Democracy,Semi-Presidential Democracy,1,5
+Finland,Western Europe,7.842,10.775,0.954,72,0.949,-0.098,0.186,86,4.766,0.776,1.5,43,5.542,Democracy,Semi-Presidential Democracy,1,5
+Armenia,Commonwealth of Independent States,5.283,9.487,0.799,67.055,0.825,-0.168,0.629,63,1.867,1.097,1.8,35,2.964,Democracy,Semi-Presidential Democracy,1,5
+Portugal,Western Europe,5.929,10.421,0.879,72.6,0.892,-0.244,0.887,66,6.726,3.465,1.3,46,10.191,Democracy,Semi-Presidential Democracy,1,5
+Croatia,Central and Eastern Europe,5.882,10.217,0.924,70.799,0.754,-0.118,0.939,58,2.378,1.723,1.4,44,4.101,Democracy,Semi-Presidential Democracy,1,5
+Madagascar,Sub-Saharan Africa,4.208,7.396,0.686,59.305,0.552,-0.005,0.803,39,10.845,16.963,4.1,20,27.808,Democracy,Semi-Presidential Democracy,1,5
+Romania,Central and Eastern Europe,6.14,10.284,0.832,67.355,0.845,-0.219,0.938,55,10.568,8.647,1.6,43,19.215,Democracy,Semi-Presidential Democracy,1,5
+Kyrgyzstan,Commonwealth of Independent States,5.744,8.538,0.893,64.401,0.935,0.119,0.908,36,2.355,4.187,3,26,6.542,Democracy,Semi-Presidential Democracy,1,5
+North Cyprus,Western Europe,5.536,10.576,0.82,73.898,0.795,0.012,0.626,67,0.218,0.108,1.3,37,0.326,Democracy,Semi-Presidential Democracy,1,5
+Mongolia,East Asia,5.677,9.4,0.935,62.5,0.708,0.116,0.856,67,2.202,1.085,2.9,28,3.287,Democracy,Semi-Presidential Democracy,1,5
+Serbia,Central and Eastern Europe,6.078,9.787,0.873,68.6,0.778,0.002,0.835,56,4.889,3.842,1.5,42,8.731,Democracy,Semi-Presidential Democracy,1,5
+Niger,Sub-Saharan Africa,5.074,7.098,0.641,53.78,0.806,0.018,0.693,17,4.139,20.207,7,15,24.346,Democracy,Semi-Presidential Democracy,1,5
+Taiwan Province of China,East Asia,6.584,10.871,0.898,69.6,0.784,-0.07,0.721,79,18.821,5.003,1.2,42,23.824,Democracy,Semi-Presidential Democracy,1,5
+Senegal,Sub-Saharan Africa,5.132,8.118,0.71,59.802,0.695,-0.046,0.801,49,8.24,8.577,4.7,19,16.817,Democracy,Semi-Presidential Democracy,1,5
+North Macedonia,Central and Eastern Europe,5.101,9.693,0.805,65.474,0.751,0.038,0.905,59,1.229,0.854,1.5,39,2.083,Democracy,Semi-Presidential Democracy,1,5
+Iceland,Western Europe,7.554,10.878,0.983,73,0.955,0.16,0.673,94,0.321,0.021,1.8,37,0.342,Democracy,Semi-Presidential Democracy,1,5
+Lithuania,Central and Eastern Europe,6.255,10.499,0.935,67.906,0.773,-0.203,0.826,71,1.928,0.787,1.7,45,2.715,Democracy,Semi-Presidential Democracy,1,5
+Austria,Western Europe,7.268,10.906,0.934,73.3,0.908,0.042,0.481,57,5.139,3.876,1.5,43,9.015,Democracy,Semi-Presidential Democracy,1,5
+Ireland,Western Europe,7.085,11.342,0.947,72.4,0.879,0.077,0.363,63,3.117,1.83,1.8,38,4.947,Democracy,Semi-Presidential Democracy,1,5
+Slovakia,Central and Eastern Europe,6.331,10.369,0.936,69.201,0.766,-0.124,0.911,54,2.948,2.512,1.5,41,5.46,Democracy,Semi-Presidential Democracy,1,5
+Ukraine,Commonwealth of Independent States,4.875,9.436,0.888,64.902,0.724,-0.011,0.924,69,30.144,13.543,1.4,41,43.687,Democracy,Semi-Presidential Democracy,1,5
+Mali,Sub-Saharan Africa,4.723,7.744,0.724,51.969,0.697,-0.036,0.827,44,8.952,11.394,5.9,16,20.346,Democracy,Semi-Presidential Democracy,1,5
+France,Western Europe,6.69,10.704,0.942,74,0.822,-0.147,0.571,82,53.545,11.754,1.9,42,65.299,Democracy,Semi-Presidential Democracy,1,5
+Poland,Central and Eastern Europe,6.166,10.382,0.898,69.702,0.841,-0.165,0.735,60,22.704,15.135,1.4,42,37.839,Democracy,Semi-Presidential Democracy,1,5
+Georgia,Commonwealth of Independent States,4.891,9.585,0.671,64.3,0.783,-0.238,0.655,58,2.313,1.675,2.1,38,3.988,Democracy,Semi-Presidential Democracy,1,5
+Sri Lanka,South Asia,4.325,9.47,0.827,67.299,0.841,0.079,0.863,18,3.857,17.572,2.2,34,21.429,Democracy,Presidential Democracy,1,4
+Nigeria,Sub-Saharan Africa,4.759,8.533,0.74,50.102,0.737,0.037,0.878,52,107.632,99.352,5.4,18,206.984,Democracy,Presidential Democracy,1,4
+Sierra Leone,Sub-Saharan Africa,3.849,7.434,0.63,51.651,0.717,0.084,0.866,43,3.442,4.562,4.3,19,8.004,Democracy,Presidential Democracy,1,4
+Turkey,Middle East and North Africa,4.948,10.24,0.822,67.199,0.576,-0.139,0.776,76,64.216,20.279,2.1,32,84.495,Democracy,Presidential Democracy,1,4
+Venezuela,Latin America and Caribbean,4.892,9.073,0.861,66.7,0.615,-0.169,0.827,88,25.011,3.411,2.3,30,28.422,Democracy,Presidential Democracy,1,4
+Indonesia,Southeast Asia,5.345,9.365,0.811,62.236,0.873,0.542,0.867,56,153.452,120.57,2.3,30,274.022,Democracy,Presidential Democracy,1,4
+Comoros,Sub-Saharan Africa,4.289,8.031,0.626,57.349,0.548,0.082,0.781,29,0.253,0.62,4.2,20,0.873,Democracy,Presidential Democracy,1,4
+Liberia,Sub-Saharan Africa,4.625,7.288,0.72,56.498,0.735,0.05,0.85,53,2.691,2.386,4.4,19,5.077,Democracy,Presidential Democracy,1,4
+Kenya,Sub-Saharan Africa,4.607,8.361,0.688,60.704,0.779,0.287,0.825,28,15.111,38.858,3.5,20,53.969,Democracy,Presidential Democracy,1,4
+Benin,Sub-Saharan Africa,5.045,8.087,0.489,54.713,0.757,-0.034,0.661,48,5.844,6.331,4.9,19,12.175,Democracy,Presidential Democracy,1,4
+Burundi,Sub-Saharan Africa,3.775,6.635,0.49,53.4,0.626,-0.024,0.607,14,1.673,10.275,5.5,17,11.948,Democracy,Presidential Democracy,1,4
+Ghana,Sub-Saharan Africa,5.088,8.58,0.727,57.586,0.807,0.123,0.848,57,17.773,13.408,3.9,22,31.181,Democracy,Presidential Democracy,1,4
+Maldives,South Asia,5.198,9.826,0.913,70.6,0.854,0.024,0.825,35,0.19,0.352,1.9,30,0.542,Democracy,Presidential Democracy,1,4
+Dominican Republic,Latin America and Caribbean,5.545,9.802,0.853,66.102,0.86,-0.133,0.714,85,9.237,1.63,2.4,28,10.867,Democracy,Presidential Democracy,1,4
+Argentina,Latin America and Caribbean,5.929,9.962,0.898,69,0.828,-0.182,0.834,93,42.099,3.168,2.3,32,45.267,Democracy,Presidential Democracy,1,4
+Paraguay,Latin America and Caribbean,5.653,9.448,0.893,65.9,0.876,0.028,0.882,62,4.431,2.717,2.4,26,7.148,Democracy,Presidential Democracy,1,4
+Nicaragua,Latin America and Caribbean,5.972,8.62,0.864,67.657,0.836,0.02,0.664,57,3.784,2.854,2.4,26,6.638,Democracy,Presidential Democracy,1,4
+Uruguay,Latin America and Caribbean,6.431,9.966,0.925,69.1,0.896,-0.092,0.59,96,3.337,0.139,2,36,3.476,Democracy,Presidential Democracy,1,4
+Brazil,Latin America and Caribbean,6.33,9.577,0.882,66.601,0.804,-0.071,0.756,88,187.283,25.539,1.7,33,212.822,Democracy,Presidential Democracy,1,4
+Mexico,Latin America and Caribbean,6.317,9.859,0.831,68.597,0.862,-0.147,0.799,84,108.499,20.667,2.1,29,129.166,Democracy,Presidential Democracy,1,4
+Cyprus,Western Europe,6.223,10.576,0.802,73.898,0.763,-0.015,0.844,67,0.591,0.29,1.3,37,0.881,Democracy,Presidential Democracy,1,4
+Panama,Latin America and Caribbean,6.18,10.35,0.896,69.652,0.872,-0.166,0.856,68,2.942,1.384,2.5,30,4.326,Democracy,Presidential Democracy,1,4
+Bolivia,Latin America and Caribbean,5.716,9.046,0.81,63.901,0.875,-0.077,0.839,69,8.073,3.627,2.8,26,11.7,Democracy,Presidential Democracy,1,4
+Chile,Latin America and Caribbean,6.172,10.071,0.882,70,0.742,-0.044,0.83,85,16.273,2.872,1.7,35,19.145,Democracy,Presidential Democracy,1,4
+Malawi,Sub-Saharan Africa,3.6,6.958,0.537,57.948,0.78,0.038,0.729,18,3.458,15.753,4.3,18,19.211,Democracy,Presidential Democracy,1,4
+Colombia,Latin America and Caribbean,6.012,9.557,0.847,68.001,0.837,-0.135,0.841,80,40.781,10.195,1.8,31,50.976,Democracy,Presidential Democracy,1,4
+El Salvador,Latin America and Caribbean,6.061,9.054,0.762,66.402,0.888,-0.11,0.688,73,4.739,1.753,2.1,28,6.492,Democracy,Presidential Democracy,1,4
+Costa Rica,Latin America and Caribbean,7.069,9.88,0.891,71.4,0.934,-0.126,0.809,80,4.082,1.02,1.8,33,5.102,Democracy,Presidential Democracy,1,4
+Philippines,Southeast Asia,5.88,9.076,0.83,62,0.917,-0.097,0.742,47,51.62,58.21,2.6,26,109.83,Democracy,Presidential Democracy,1,4
+Ecuador,Latin America and Caribbean,5.764,9.313,0.821,68.8,0.842,-0.124,0.843,63,11.144,6.545,2.4,28,17.689,Democracy,Presidential Democracy,1,4
+Switzerland,Western Europe,7.571,11.117,0.942,74.4,0.919,0.025,0.292,74,6.413,2.253,1.5,43,8.666,Democracy,Presidential Democracy,1,4
+Peru,Latin America and Caribbean,5.84,9.458,0.832,68.25,0.822,-0.154,0.891,79,26.11,6.94,2.3,31,33.05,Democracy,Presidential Democracy,1,4
+South Korea,East Asia,5.845,10.651,0.799,73.9,0.672,-0.083,0.727,82,42.047,9.23,1.1,44,51.277,Democracy,Presidential Democracy,1,4
+United States,North America and ANZ,6.951,11.023,0.92,68.2,0.837,0.098,0.698,83,275.013,56.328,1.8,38,331.341,Democracy,Presidential Democracy,1,4
+Guatemala,Latin America and Caribbean,6.435,9.053,0.813,64.958,0.906,-0.038,0.775,52,9.345,8.626,2.9,23,17.971,Democracy,Presidential Democracy,1,4
+Honduras,Latin America and Caribbean,5.919,8.648,0.812,67.3,0.857,0.081,0.809,57,5.661,4.27,2.5,24,9.931,Democracy,Presidential Democracy,1,4
+Jordan,Middle East and North Africa,4.395,9.182,0.767,67,0.755,-0.167,0.705,91,9.301,0.92,2.8,24,10.221,Dictatorship,Royal Dictatorship,0,3
+Cambodia,Southeast Asia,4.83,8.36,0.765,62,0.959,0.034,0.843,24,4.022,12.736,2.5,26,16.758,Dictatorship,Royal Dictatorship,0,3
+Kuwait,Middle East and North Africa,6.106,10.817,0.843,66.9,0.867,-0.104,0.736,100,4.281,0,2.1,37,4.281,Dictatorship,Royal Dictatorship,0,3
+United Arab Emirates,Middle East and North Africa,6.561,11.085,0.844,67.333,0.932,0.074,0.589,86,8.523,1.388,1.4,33,9.911,Dictatorship,Royal Dictatorship,0,3
+Morocco,Middle East and North Africa,4.918,8.903,0.56,66.208,0.774,-0.236,0.801,64,23.671,13.315,2.4,30,36.986,Dictatorship,Royal Dictatorship,0,3
+Saudi Arabia,Middle East and North Africa,6.494,10.743,0.891,66.603,0.877,-0.149,0.684,84,29.321,5.585,2.3,32,34.906,Dictatorship,Royal Dictatorship,0,3
+Bahrain,Middle East and North Africa,6.647,10.669,0.862,69.495,0.925,0.089,0.722,89,1.523,0.188,2,32,1.711,Dictatorship,Royal Dictatorship,0,3
+Swaziland,Sub-Saharan Africa,4.308,9.065,0.77,50.833,0.647,-0.185,0.708,30,0.349,0.813,3,21,1.162,Dictatorship,Royal Dictatorship,0,3
+Iran,Middle East and North Africa,4.721,9.584,0.71,66.3,0.608,0.218,0.714,76,63.974,20.203,2.2,32,84.177,Dictatorship,Civilian Dictatorship,0,2
+Lesotho,Sub-Saharan Africa,3.512,7.926,0.787,48.7,0.715,-0.131,0.915,31,0.665,1.48,3.2,24,2.145,Dictatorship,Civilian Dictatorship,0,2
+Uganda,Sub-Saharan Africa,4.636,7.677,0.781,56.101,0.709,0.122,0.855,26,11.953,34.022,5,17,45.975,Dictatorship,Civilian Dictatorship,0,2
+Zimbabwe,Sub-Saharan Africa,3.145,7.943,0.75,56.201,0.677,-0.047,0.821,38,5.662,9.238,3.6,19,14.9,Dictatorship,Civilian Dictatorship,0,2
+Namibia,Sub-Saharan Africa,4.574,9.161,0.818,56.799,0.719,-0.149,0.847,55,1.402,1.147,3.4,22,2.549,Dictatorship,Civilian Dictatorship,0,2
+Palestinian Territories,Middle East and North Africa,4.517,8.485,0.826,62.25,0.653,-0.163,0.821,80,4.097,1.024,3.7,21,5.121,Dictatorship,Civilian Dictatorship,0,2
+Ethiopia,Sub-Saharan Africa,4.275,7.694,0.764,59,0.752,0.082,0.761,21,24.241,91.193,4.3,19,115.434,Dictatorship,Civilian Dictatorship,0,2
+Togo,Sub-Saharan Africa,4.107,7.362,0.569,54.914,0.619,0.032,0.772,43,3.574,4.737,4.4,19,8.311,Dictatorship,Civilian Dictatorship,0,2
+Zambia,Sub-Saharan Africa,4.073,8.145,0.708,55.809,0.782,0.061,0.823,45,8.311,10.157,4.7,18,18.468,Dictatorship,Civilian Dictatorship,0,2
+Haiti,Latin America and Caribbean,3.615,7.477,0.54,55.7,0.593,0.422,0.721,57,6.513,4.913,3,24,11.426,Dictatorship,Civilian Dictatorship,0,2
+Mozambique,Sub-Saharan Africa,4.794,7.158,0.744,54.706,0.882,0.061,0.684,38,11.932,19.467,4.9,18,31.399,Dictatorship,Civilian Dictatorship,0,2
+Belarus,Commonwealth of Independent States,5.534,9.853,0.91,66.253,0.65,-0.18,0.627,79,7.465,1.984,1.7,40,9.449,Dictatorship,Civilian Dictatorship,0,2
+Afghanistan,South Asia,2.523,7.695,0.463,52.493,0.382,-0.102,0.924,25,9.769,29.305,4.6,18,39.074,Dictatorship,Civilian Dictatorship,0,2
+Vietnam,Southeast Asia,5.411,8.973,0.85,68.034,0.94,-0.098,0.796,38,37.046,60.444,2.1,32,97.49,Dictatorship,Civilian Dictatorship,0,2
+Malaysia,Southeast Asia,5.384,10.238,0.817,67.102,0.895,0.125,0.839,78,25.301,7.136,2,30,32.437,Dictatorship,Civilian Dictatorship,0,2
+Russia,Commonwealth of Independent States,5.477,10.189,0.903,64.703,0.718,-0.111,0.845,74,108,37.946,1.8,40,145.946,Dictatorship,Civilian Dictatorship,0,2
+Montenegro,Central and Eastern Europe,5.581,9.94,0.858,68.699,0.708,-0.034,0.812,68,0.427,0.201,1.8,39,0.628,Dictatorship,Civilian Dictatorship,0,2
+Gabon,Sub-Saharan Africa,4.852,9.603,0.776,59.962,0.731,-0.2,0.84,87,1.944,0.29,4,23,2.234,Dictatorship,Civilian Dictatorship,0,2
+China,East Asia,5.339,9.673,0.811,69.593,0.904,-0.146,0.755,61,878.582,561.716,1.7,38,1440.298,Dictatorship,Civilian Dictatorship,0,2
+Ivory Coast,Sub-Saharan Africa,5.306,8.551,0.644,50.114,0.741,-0.016,0.794,51,13.508,12.978,4.7,19,26.486,Dictatorship,Civilian Dictatorship,0,2
+Azerbaijan,Commonwealth of Independent States,5.171,9.569,0.836,65.656,0.814,-0.223,0.506,56,5.687,4.468,2.1,32,10.155,Dictatorship,Civilian Dictatorship,0,2
+Cameroon,Sub-Saharan Africa,5.142,8.189,0.71,53.515,0.731,0.026,0.848,56,14.927,11.728,4.6,19,26.655,Dictatorship,Civilian Dictatorship,0,2
+Turkmenistan,Commonwealth of Independent States,5.066,9.629,0.983,62.409,0.877,0.273,0.888,53,3.205,2.841,2.8,27,6.046,Dictatorship,Civilian Dictatorship,0,2
+Bosnia and Herzegovina,Central and Eastern Europe,5.813,9.59,0.87,68.098,0.706,0.113,0.931,52,1.704,1.573,1.3,43,3.277,Dictatorship,Civilian Dictatorship,0,2
+Kazakhstan,Commonwealth of Independent States,6.152,10.155,0.952,65.2,0.853,-0.069,0.733,58,10.913,7.902,2.8,31,18.815,Dictatorship,Civilian Dictatorship,0,2
+Uzbekistan,Commonwealth of Independent States,6.179,8.836,0.918,65.255,0.97,0.311,0.515,50,16.776,16.776,2.4,28,33.552,Dictatorship,Civilian Dictatorship,0,2
+Bangladesh,South Asia,5.025,8.454,0.693,64.8,0.877,-0.041,0.682,39,64.339,100.633,2.1,28,164.972,Dictatorship,Civilian Dictatorship,0,2
+South Africa,Sub-Saharan Africa,4.956,9.403,0.86,56.904,0.749,-0.067,0.86,67,39.823,19.614,2.4,28,59.437,Dictatorship,Civilian Dictatorship,0,2
+Algeria,Middle East and North Africa,4.887,9.342,0.802,66.005,0.48,-0.067,0.752,73,32.109,11.876,3.1,29,43.985,Dictatorship,Civilian Dictatorship,0,2
+Singapore,Southeast Asia,6.377,11.488,0.915,76.953,0.927,-0.018,0.082,100,5.858,0,1.2,42,5.858,Dictatorship,Civilian Dictatorship,0,2
+Tajikistan,Commonwealth of Independent States,5.466,8.091,0.86,64.281,0.832,-0.056,0.553,27,2.585,6.988,3.6,22,9.573,Dictatorship,Civilian Dictatorship,0,2
+Tanzania,Sub-Saharan Africa,3.623,7.876,0.702,57.999,0.833,0.183,0.577,37,22.205,37.807,4.9,18,60.012,Dictatorship,Military Dictatorship,0,1
+Yemen,Middle East and North Africa,3.658,7.578,0.832,57.122,0.602,-0.147,0.8,38,11.375,18.56,3.8,20,29.935,Dictatorship,Military Dictatorship,0,1
+Botswana,Sub-Saharan Africa,3.467,9.782,0.784,59.269,0.824,-0.246,0.801,73,1.722,0.638,2.9,24,2.36,Dictatorship,Military Dictatorship,0,1
+Rwanda,Sub-Saharan Africa,3.415,7.676,0.552,61.4,0.897,0.061,0.167,18,2.341,10.664,4.1,20,13.005,Dictatorship,Military Dictatorship,0,1
+Burkina Faso,Sub-Saharan Africa,4.834,7.678,0.672,54.151,0.695,-0.009,0.748,31,6.509,14.488,5.2,18,20.997,Dictatorship,Military Dictatorship,0,1
+Libya,Middle East and North Africa,5.41,9.622,0.827,62.3,0.771,-0.087,0.667,78,5.372,1.515,2.3,29,6.887,Dictatorship,Military Dictatorship,0,1
+Mauritania,Sub-Saharan Africa,4.227,8.542,0.795,57.161,0.561,-0.106,0.731,57,2.662,2.008,4.6,20,4.67,Dictatorship,Military Dictatorship,0,1
+Congo (Brazzaville),Sub-Saharan Africa,5.342,8.117,0.636,58.221,0.695,-0.068,0.745,46,41.402,48.602,6,17,90.004,Dictatorship,Military Dictatorship,0,1
+Chad,Sub-Saharan Africa,4.355,7.364,0.619,48.478,0.579,0.041,0.807,23,3.796,12.707,5.8,17,16.503,Dictatorship,Military Dictatorship,0,1
+Myanmar,Southeast Asia,4.426,8.541,0.779,59.302,0.876,0.509,0.66,31,16.887,37.586,2.2,29,54.473,Dictatorship,Military Dictatorship,0,1
+Gambia,Sub-Saharan Africa,5.051,7.686,0.69,55.16,0.697,0.424,0.746,59,1.432,0.996,5.3,18,2.428,Dictatorship,Military Dictatorship,0,1
+Lebanon,Middle East and North Africa,4.584,9.626,0.848,67.355,0.525,-0.073,0.898,78,5.32,1.5,2.1,30,6.82,Dictatorship,Military Dictatorship,0,1
+Tunisia,Middle East and North Africa,4.596,9.266,0.691,67.201,0.656,-0.201,0.87,70,8.288,3.552,2.2,33,11.84,Dictatorship,Military Dictatorship,0,1
+Laos,Southeast Asia,5.03,8.947,0.728,58.968,0.91,0.123,0.658,36,2.626,4.668,2.7,24,7.294,Dictatorship,Military Dictatorship,0,1
+Guinea,Sub-Saharan Africa,4.984,7.838,0.639,55.008,0.697,0.095,0.766,39,5.145,8.046,4.7,18,13.191,Dictatorship,Military Dictatorship,0,1
+Iraq,Middle East and North Africa,4.854,9.24,0.746,60.583,0.63,-0.053,0.875,73,29.472,10.901,3.7,21,40.373,Dictatorship,Military Dictatorship,0,1
+Egypt,Middle East and North Africa,4.283,9.367,0.75,61.998,0.749,-0.182,0.795,43,44.143,58.516,3.3,25,102.659,Dictatorship,Military Dictatorship,0,1

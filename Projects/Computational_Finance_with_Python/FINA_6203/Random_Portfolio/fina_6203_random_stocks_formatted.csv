@@ -1,0 +1,6 @@
+﻿Name,Ticker,Exchange,Sector,Industry,Principal Competitor,Close Price,Median Target,Forward EPS,Forward P/E,Beta,Market Cap,PEG Ratio
+Verizon,VZ,NYSE,Communication Services,,AT&T,33.79,39,5,6.76,0.33,142.055B,-0.63
+Molson Coors,TAP,NYSE,Alcoholic Beverages,Food & Drink,Anheuser Busch,63.59,70,0.19,334.68,0.9,13.757B,2.42
+Bristol-Myers Squibb,BMY,NYSE,"Discovery, development, licensing, manufacture, marketing, distribution, and sale",Pharma,AbbVie,59.03,73.95,3.76,15.7,0.41,123.32B,1.58
+Dr Pepper,KDP,NASDAQ,Beverages,Food & Drink,Coca-Cola,33.3,40,1.13,29.47,0.58,46.529B,3.19
+Plains All American Pipeline,PAA,NASDAQ,Energy Infrastructure,Energy,Energy Transfer,15.15,17,1.62,9.35,1.65,10.62B,0.1

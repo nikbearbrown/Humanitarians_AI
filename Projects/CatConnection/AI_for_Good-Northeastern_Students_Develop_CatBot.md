@@ -1,6 +1,6 @@
 # AI for Good: Northeastern Students Develop CatBot to Boost Special Needs Cat Adoptions
 
-![CatBot](catbot_image.png) <!-- Replace with your actual image file name -->
+![CatBot](catbot.png)
 
 In a powerful demonstration of how artificial intelligence can create positive social impact, a team of Northeastern University students has developed CatBot, an AI-powered chatbot now live on The Cat Connection’s website. Designed to help a Boston-based cat rescue place senior and special needs cats in loving homes, CatBot is more than a technical achievement—it’s a bridge between compassion and technology. 
 
@@ -36,7 +36,7 @@ CatBot serves as a 24/7 digital assistant on The Cat Connection's website, provi
 - Volunteer and foster recruitment tools
 - Alternative support options for those unable to adopt
 
-![CatBot Feature](catbot_feature_image.png) <!-- Replace with actual image name -->
+![CatBot Feature](cb_collage.JPEG) <!-- Replace with actual image name -->
 
 ## The Research Foundation
 The team's approach was grounded in behavioral economics and consumer decision-making models. By analyzing search trends and adoption behaviors, they created a digital strategy optimized for connecting these special cats with compatible adopters.
@@ -64,7 +64,7 @@ CatBot proves that AI doesn’t have to be sterile or impersonal. When thoughtfu
 ### Try CatBot
 Experience the chatbot firsthand on [The Cat Connection’s website](https://thecatconnection.org/). Whether you're looking to adopt, volunteer, or simply learn more, CatBot is there to guide your journey with empathy and warmth.
 
-![CatBot Behind the Scenes](behind_scenes_image.png) <!-- Replace with actual image name -->
+<!-- ![CatBot Behind the Scenes](behind_scenes_image.png) Replace with actual image name -->
 
 ## About DASH
 The D'Amore-McKim School of Business AI Strategic Hub (DASH) focuses on developing innovative applications of artificial intelligence to address business and social challenges. Through research, education, and experiential learning opportunities, DASH prepares students to become ethical and effective leaders in the rapidly evolving landscape of AI-driven business.
