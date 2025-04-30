@@ -3,7 +3,7 @@
 
 ## Executive Summary
 
-This report documents the four-month project details with Humanitarians AI in partnership with Stellis Labs, spanning January through April 2025. During period, I contributed to five projects developing the organization's AI assistant capabilities and research infrastructure:
+This report documents the four-month Co-op details with Humanitarians AI in partnership with Stellis Labs, spanning January through April 2025. During period, I contributed to five projects developing the organization's AI assistant capabilities and research infrastructure:
 
 1. **AI Assistant Agents**: Developed specialized AI assistants (Lucy and Julia) with an orchestration system enabling seamless collaboration between different agent types.
 
@@ -15,7 +15,7 @@ This report documents the four-month project details with Humanitarians AI in pa
 
 5. **Deep Research Agent**: Developed a research assistant with web retrieval capabilities, RAG implementation, and report generation functionality.
 
-Throughout the project, I delivered multiple successful demonstrations and created comprehensive documentation to ensure project sustainability.
+Throughout the Co-op, I delivered multiple successful demonstrations and created comprehensive documentation to ensure project sustainability.
 
 ## Project Timeline and Contributions
 
@@ -264,6 +264,6 @@ Developed a comprehensive simulation workflow consisting of:
 
 ## Conclusion
 
-This project with Humanitarians AI × Stellis Labs provided valuable experience in developing cutting-edge AI assistant systems with real-world applications. The projects undertaken represent significant advancements in agent architecture, simulation capabilities, and research infrastructure.
+This co-op experience with Humanitarians AI × Stellis Labs provided valuable experience in developing cutting-edge AI assistant systems with real-world applications. The projects undertaken represent significant advancements in agent architecture, simulation capabilities, and research infrastructure.
 
 The skills gained and lessons learned throughout this project have not only contributed to the organization's mission but have also provided a solid foundation for future professional growth in the AI field.
