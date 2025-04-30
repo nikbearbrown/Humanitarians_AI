@@ -11,6 +11,26 @@ This report presents findings from a survey of 250 respondents regarding their i
 
 Key findings indicate that respondents are predominantly graduate students (89%) from Computer Science/IT (78%) and Engineering (38%) fields. There is strong interest in AI workshops, with 82% of respondents motivated by career advancement. Most participants prefer a hybrid workshop format (46%) or online-only options (33%), with weekday afternoons being the most preferred time slot. Cost (60%) and time constraints (54%) were identified as the primary barriers to participation. Among workshop topics, "AI Agents and Automation" and "AI for Programmers" generated the highest interest levels, with over 70% and 69% of respondents respectively indicating they were "very" or "extremely" interested.
 
+## 
+
+
+📊 **Key Findings:**
+- 82% of respondents are motivated by career advancement
+- "AI Agents and Automation" and "AI for Programmers" generated the highest interest (70%+ high interest)
+- 85% of respondents plan to attend multiple workshops
+- 46% prefer a hybrid format, while 33% prefer online-only
+- Creative AI applications showed broad appeal across all knowledge levels
+
+🔍 **Interesting Insights:**
+We discovered clear preferences based on AI knowledge level, with beginners gravitating toward visual applications while advanced users seek specialized knowledge. This has led us to recommend parallel workshop tracks for different skill levels.
+
+💡 **Moving Forward:**
+We're using these insights to develop a comprehensive workshop program that addresses the most in-demand topics, accommodates various knowledge levels, and overcomes identified barriers to participation.
+
+The full report is available here: **Summer 2025 AI Workshop Interest Survey Report**
+https://neu.co1.qualtrics.com/jfe/form/SV_5d2OmkNnmhZ03Ea
+
+
 ## Demographics
 
 ### Gender Distribution
