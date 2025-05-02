@@ -1,106 +1,84 @@
-# 🧠 Smart Database System using MCP
+🧠 Smart Database System using MCP (Model Context Protocol)
+This project is a Modular Smart Database System powered by the Model Context Protocol (MCP) — a lightweight, extensible protocol for routing commands to specialized data-handling modules. It supports SQL engines, CSV import/export, data visualization, and optional natural language query processing via LLMs.
 
-This project is a **Modular Smart Database System** built with **MCP (Modular Command Protocol)**. It allows users to interact with databases using modular plugins and optional natural language capabilities. Ideal for data analysis, interactive exploration, and intelligent query execution.
+🔧 Features
+🔌 MCP (Model Context Protocol) — Dynamic plugin-based command routing
 
----
+🗃️ Supports SQLite & PostgreSQL backends
 
-## 🔧 Features
+🧠 Natural Language to SQL (optional via OpenAI or similar LLMs)
 
-- 📦 **MCP-based Plugin Architecture** — Easily extend functionality
-- 🗃️ **SQLite / PostgreSQL support**
-- 🧠 **Natural Language to SQL Conversion** (optional LLM integration)
-- 📊 **Data summarization & visualization**
-- 🧾 **CSV Import/Export** with type inference
-- 🧰 **Interactive CLI Interface**
-- 🔐 **Command History and Logging**
+📈 Data summarization & visualization for quick insights
 
----
+📄 CSV Import/Export with smart type inference
 
-## 📁 Project Structure
+💬 Interactive CLI Interface with command history & logging
+
+🔍 Pluggable architecture for scalable extensibility
+
+📁 Project Structure
 
 smart-db-mcp/
+├── mcp/                # Core Model Context Protocol engine
+│   ├── base_plugin.py  # Plugin base class and interface
+│   └── mcp_router.py   # Core command dispatcher using MCP
 │
-├── mcp/ # Core MCP system
-│ ├── base_plugin.py # Defines plugin interface
-│ └── mcp_router.py # Routes commands to plugins
+├── plugins/            # Command-specific handler modules
+│   ├── sql_engine.py     # SQL execution
+│   ├── csv_importer.py   # CSV to DB import
+│   ├── nl_to_sql.py      # Optional: LLM-based NL to SQL
+│   └── data_viz.py       # Statistical analysis & plotting
 │
-├── plugins/ # Plugin modules
-│ ├── sql_engine.py # Executes SQL queries
-│ ├── csv_importer.py # Imports CSVs to database
-│ ├── nl_to_sql.py # Optional: Natural language to SQL (LLM)
-│ ├── data_viz.py # Data plotting/stats
-│
-├── data/ # Sample CSVs and databases
-│
-├── main.py # CLI entry point
-├── requirements.txt
-└── README.md
+├── data/              # Sample databases and CSV files
+├── main.py            # CLI entry point
+├── requirements.txt   # Dependencies
+└── README.md          # Project documentation
+🚀 Getting Started
+1. Clone the Repository
 
-yaml
-Copy
-Edit
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
 git clone https://github.com/yourname/smart-db-mcp.git
 cd smart-db-mcp
 2. Install Requirements
-bash
 
 pip install -r requirements.txt
-3. Run the CLI Interface
 
-bash
+3. Run the CLI
 
 python main.py
-🧩 Example Commands
 
-shell
+🧪 Example Commands
 
 > import_csv data/employees.csv as employees
 > summarize employees
 > plot age, salary from employees
 > query "Show me the average salary by department"
 > query SELECT * FROM employees WHERE age > 30;
-🧠 Optional: Enable Natural Language Queries
-Set your environment variable (if using OpenAI):
 
-bash
+🧠 Optional: Natural Language Query Support
+To enable NL to SQL conversion, set the following environment variables:
 
 export ENABLE_NL2SQL=True
 export OPENAI_API_KEY=your-api-key-here
-Then, try:
-
-shell
+Try this:
 
 > query "List all sales from last month over $10,000"
+🔌 Plugin Architecture (via MCP)
+All plugins must inherit from the base interface and implement two methods:
 
-✨ Plugin Architecture
-Each plugin inherits from a base interface:
-
-python
-Copy
-Edit
 class Plugin:
     def can_handle(self, command: str) -> bool:
         ...
     def handle(self, command: str) -> str:
         ...
-Plugins are automatically discovered and routed by mcp_router.py.
+Plugins are auto-discovered and routed through mcp_router.py, which enables seamless expansion.
 
 🛠 Requirements
 Python 3.8+
 
-SQLite3 or PostgreSQL
+SQLite or PostgreSQL
 
-Optional: OpenAI API key for NL2SQL
+(Optional) OpenAI API key for LLM-based queries
 
 📜 License
-This project is licensed under the MIT License.
-
+Licensed under the MIT License.
 
