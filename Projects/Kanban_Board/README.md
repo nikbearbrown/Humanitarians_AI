@@ -1,12 +1,12 @@
-# 🗂️ Kanban Board Project
+# Kanban Board Project
 
-## 📌 Project Overview
+## Project Overview
 
 The **Kanban Board Project** is a full-stack Agile task management platform built under the **Humanitarians.AI** initiative. This application empowers teams to organize work visually and manage workflows efficiently through a dynamic, real-time Kanban board. Users can drag and drop tasks, collaborate asynchronously, and track progress across customizable stages like **To Do**, **In Progress**, **In Review**, and **Done**.
 
 The project is designed to support cross-functional, distributed teams such as students, NGOs, researchers, and developers. It leverages modern UI/UX design and a scalable backend architecture while adhering to **Agile and Scrum methodologies** to promote transparency, accountability, and velocity in team collaboration.
 
-### 🔑 Key Features
+### Key Features
 
 - Interactive, drag-and-drop Kanban board
 - Secure user authentication and role-based access control
@@ -17,7 +17,7 @@ The project is designed to support cross-functional, distributed teams such as s
 
 ---
 
-## 🧪 Use Cases
+## Use Cases
 
 - **Academic Capstone and Research Projects**  
   Manage deliverables, coordinate responsibilities, and ensure milestone alignment among students and academic advisors.
@@ -39,7 +39,7 @@ The project is designed to support cross-functional, distributed teams such as s
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 1. Deliver a highly usable Kanban board interface with core CRUD task operations  
 2. Ensure performance, security, and responsiveness across web clients  
@@ -50,16 +50,16 @@ The project is designed to support cross-functional, distributed teams such as s
 
 ---
 
-## 👥 Team Structure
+## Team Structure
 
-### 🔹 Project Leadership
+### Project Leadership
 - **Technical Project Manager**: Rahul Ashok Kodate – [kodate.rahulashok@humanitarians.ai](mailto:kodate.rahulashok@humanitarians.ai)  
   _Leading Agile planning, stakeholder communication, sprint execution, and project delivery._
 
 - **Project Manager (Former)**: Gayathri Vummenthala  
 - **Assistant Project Manager**: Titiksha Ghosh
 
-### 🔹 Development Team
+### Development Team
 
 **Frontend Team**  
 - Manan Gandhi *(Former)*  
@@ -83,7 +83,7 @@ The project is designed to support cross-functional, distributed teams such as s
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer        | Technologies                        |
 |--------------|-------------------------------------|
@@ -96,7 +96,7 @@ The project is designed to support cross-functional, distributed teams such as s
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 kanban-board/
@@ -125,15 +125,15 @@ kanban-board/
 
 ---
 
-## 🧪 Development & Local Setup
+## Development & Local Setup
 
-### 🔄 Prerequisites
+### Prerequisites
 
 * Node.js & npm installed
 * MongoDB instance (local or cloud)
 * `.env` file with required variables
 
-### 🧰 Setup Instructions
+### Setup Instructions
 
 1. **Clone the repositories:**
 
@@ -158,34 +158,19 @@ kanban-board/
    npm start
    ```
 
-> 🔐 Configure `.env` file with:
+>  Configure `.env` file with:
 > `MONGODB_URI`, `JWT_SECRET`, and relevant third-party API keys.
 
 ---
 
-## 🌐 Demo & Resources
+## Demo & Resources
 
 * **Live Demo**: *Coming soon* (via AWS EC2 or Heroku)
 * **Deliverables & Planning**: [Project Document](https://docs.google.com/document/d/1A398kipS7bGlQUvDpMjV6jIFtex2grjI4v-VrrIOdW4/edit?usp=sharing)
 * **Scrum Board**: [Figma Kanban Tracker](https://www.figma.com/board/mxMNKcci5hSlNWAdd406BF/OPT-Portal-and-Kanban-Board-Project)
 
----
 
-## 📣 Contribution Guidelines
-
-We welcome external contributions!
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/<name>`
-3. Commit your changes: `git commit -m "Add <feature>"`
-4. Push and open a PR: `git push origin feature/<name>`
-5. Ensure compliance with ESLint/Prettier and pass CI checks
-
-See `CONTRIBUTING.md` for detailed collaboration rules.
-
----
-
-## 📌 Internal Reporting & Expectations
+## Internal Reporting & Expectations
 
 > For all internal team members (Humanitarians.AI)
 
@@ -196,27 +181,19 @@ See `CONTRIBUTING.md` for detailed collaboration rules.
 
 ---
 
-## 🔗 GitHub Repositories
+## GitHub Repositories
 
 * **Frontend**: [kanban-board-frontend](https://github.com/Humanitariansai/kanban-board-frontend)
 * **Backend**: [kanban-board-backend](https://github.com/Humanitariansai/kanban-board-backend)
 
----
 
-## 📜 License
 
-This project is licensed under the **MIT License** — you are free to use, distribute, and modify the code with proper attribution.
-
-See the full [LICENSE](LICENSE) file for details.
-
----
-
-## 📬 Contact
+## Contact
 
 For questions, improvements, or demo requests, reach out to:
 
 **Rahul Ashok Kodate**
-📧 [kodate.rahulashok@humanitarians.ai](mailto:kodate.rahulashok@humanitarians.ai)
+[kodate.rahulashok@humanitarians.ai](mailto:kodate.rahulashok@humanitarians.ai)
 
 ---
 
