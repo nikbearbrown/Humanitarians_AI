@@ -85,6 +85,38 @@ A comprehensive suite of educational AI chatbots and tools designed to make AI a
 
 - **Archimedes**: Simplifies structural engineering concepts through clear explanations, real-world examples, and interactive problem-solving.
 
+### The Reddick Project: Visualizing Underrepresented Histories
+
+Named in honor of Lawrence Dunbar Reddick (1910-1995), the pioneering historian who documented misrepresentations of Black history in textbooks, the Reddick Project uses AI to create historically accurate visual representations of underrepresented or misrepresented events and figures in history.
+
+### Core Mission
+The Reddick Project leverages generative AI to produce educational materials that address historical gaps and misrepresentations identified through rigorous historical research. By creating AI-generated images, videos, and interactive media that visualize historically accurate but previously undocumented moments, the project helps students and educators engage with marginalized historical narratives.
+
+### Key Components
+- **Historical Recovery Studio**: AI-powered reconstruction of historical events and figures with minimal visual documentation, based on written primary sources, oral histories, and scholarly research.
+- **Counterfactual Visualization Tool**: Creates clearly labeled "what if" scenarios showing how historical events might have been depicted if documented with the same attention given to mainstream historical figures and events.
+- **Textbook Correction Engine**: Analyzes existing educational materials to identify misrepresentations and generates alternative visual content that more accurately reflects historical realities.
+- **Archive Expansion Initiative**: Collaborates with libraries, museums, and historical societies to supplement their collections with AI visualizations based on their textual archives.
+
+### Technical Approach
+- Implements ethical guardrails ensuring all generated content is:
+  - Clearly labeled as AI-generated
+  - Historically validated by subject matter experts
+  - Accompanied by primary sources and historical context
+  - Designed to combat rather than reinforce stereotypes
+
+### Educational Impact
+- Provides educators with visual resources for teaching histories that lack photographic documentation
+- Creates immersive learning experiences about historical periods and communities that have been systematically excluded from visual records
+- Helps students visualize the contributions of underrepresented groups throughout history
+- Offers specialized modules focusing on Indigenous histories, women's contributions, labor movements, disability history, and immigrant experiences
+
+### Current Projects
+- **Stonewall Uprising**: Visual documentation of the 1969 Stonewall riots that catalyzed the LGBTQ+ rights movement, recreating scenes based on firsthand accounts and archival research.
+- **Crispus Attucks**: Interactive narrative exploring the life and legacy of Crispus Attucks, the first person killed in the Boston Massacre and an early martyr of the American Revolution.
+- **Overlooked Nerds**: Series highlighting historically accurate portrayals of scientific pioneers like Ada Lovelace and Isaac Newton, contextualizing their work and personal lives beyond simplified historical accounts.
+- **Mythological Recontextualization**: Culturally authentic visualizations of global mythological traditions including Grimm's fairy tales and The Ramayana, presenting these stories with their original cultural contexts and meanings.
+
 ### The Shannon Project (ClaudeNEU)
 An initiative dedicated to revolutionizing education through open-source AI tools, leveraging Claude Enterprise and other LLMs to create accessible, customizable solutions.
 
