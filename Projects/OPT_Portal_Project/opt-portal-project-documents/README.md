@@ -1,141 +1,191 @@
-# Kanban Board for OPT Portal
+# OPT Portal Project
 
 ## Project Overview
 
-The **Kanban Board for OPT Portal** is a streamlined project management tool designed to enhance the visibility and efficiency of the OPT (Optional Practical Training) application process for international students. The board provides real-time status tracking, role-based customization, and seamless communication for all stakeholders involved in the OPT application workflow.
+The **OPT Portal** is a full-stack web application designed to streamline and automate the management of Optional Practical Training (OPT) applications for international students. This portal enables students to securely submit documents, track their application status, and receive timely updates. Additionally, administrative staff can review submissions, update statuses, and manage workflows from a centralized dashboard.
 
 ---
 
 ## Project Charter
 
-- **Project Title:** Kanban Board for OPT Portal  
+- **Project Title:** OPT Portal Development  
 - **Vision Statement:**  
-  Streamline and enhance the visibility of the OPT application process through a dedicated Kanban Board, improving efficiency and stakeholder communication.
+  The goal of this project is to create an intuitive and efficient online portal that simplifies the OPT application and management process for students while improving application tracking and ensuring compliance with immigration regulations.
 
 - **Objectives:**
-  - Build a user-friendly Kanban interface for real-time OPT status tracking.
-  - Ensure regulatory compliance and enhance reporting.
+  - Develop an online system for OPT application submission and status tracking.
+  - Automate notifications and updates to enhance communication between students and administrative staff.
 
 - **High-Level Requirements:**
-  - Customizable boards per user role.
-  - Secure access with role-based permissions.
+  - Secure user authentication and data protection.
+  - Integration with existing university systems and databases.
 
-- **Stakeholders:** Project team, IT department, compliance officers, students, administrative staff  
-- **Project Sponsor:** University IT Department  
-- **Timeline:** July 2024 – June 2025  
+- **Stakeholders:** Students, University administrative staff, IT department, Compliance officers  
+- **Project Sponsor:** University Registrar  
+- **Timeline:** Project initiation in July 2024, projected completion by June 2025.
 
 ---
 
 ## Project Plan
 
-- **Project Phases:**
-  - Initiation: July 2024  
-  - Planning: August 2024  
-  - Execution: Oct 2024 – May 2025  
-  - Monitoring & Control: Throughout execution  
-  - Closure: June 2025  
+### Phases of the Project:
+- **Initiation:** July 2024  
+- **Planning:** August 2024  
+- **Execution:** October 2024 – May 2025  
+- **Monitoring & Control:** Throughout execution  
+- **Closure:** June 2025  
 
-- **Key Tasks:**
-  - Backend services
-  - Frontend interface
-  - User testing
-  - System integration
+### Task Lists:
+- Development of the user interface, backend systems, security protocols, testing, and deployment.
 
-- **Schedule:** Refer to Gantt chart  
-- **Resources:** Developers, QA team, PM, IT staff  
-- **Budget:** Covers software, hardware, and training  
-- **Risk Management & Communication Plans:** Included below  
+### Schedule:
+- Includes milestones for each major phase (detailed in project documents).
+
+### Resource Allocation:
+- Roles: Project Manager, Developers, Security Experts, Testers.
+
+### Budget:
+- Estimation of costs for development, testing, deployment, and training.
 
 ---
 
 ## Project Scope
 
 - **Scope Statement:**  
-  Development of a Kanban Board tailored to track and manage OPT applications within the university framework.
+  This project focuses on developing an online portal for managing OPT applications, including document submission, status updates, and reporting.
 
 - **Deliverables:**
-  - Fully functional Kanban system
-  - Training manuals and user documentation
+  - Fully functional online OPT management portal.
+  - System documentation and user training materials.
 
-- **Exclusions:** Data migration from older systems  
-- **Constraints:** Limited budget, regulatory constraints  
-- **Assumptions:** Timely stakeholder feedback  
+- **Exclusions:**
+  - Alumni accounts or non-student immigration processes.
+
+- **Constraints:**  
+  Budget limitations and strict compliance with federal regulations.
+
+- **Assumptions:**
+  - Key stakeholders will be available for regular consultations and feedback.
 
 ---
 
 ## Risk Management Plan
 
 - **Risks Identified:**
-  - Development delays
-  - Budget overruns
-  - User resistance
+  - Delays due to technical challenges, budget constraints, and changes in regulatory requirements.
 
-- **Impact Analysis:** Could delay timelines, raise costs, reduce satisfaction  
-- **Mitigation Strategies:** Regular reviews, user engagement, contingency funds  
-- **Monitoring Plan:** Weekly risk assessments  
+- **Impact Analysis:**  
+  Potential delays, cost overruns, and non-compliance.
+
+- **Mitigation Strategies:**  
+  Regular status reviews, contingency planning, and ongoing legal consultation.
+
+- **Monitoring Plan:**  
+  Regular risk reviews and updates at project meetings.
 
 ---
 
-## Stakeholder Management
+## Stakeholder Management Plan
 
-- **Identification:** Full stakeholder list with contact info  
-- **Influence & Interest Analysis:** Influence-interest matrix created  
-- **Engagement Strategy:** Weekly updates, hands-on workshops, feedback sessions  
-- **Communication Plan:** Refer to section below  
+- **Stakeholder Identification:**  
+  A list of all stakeholders involved, including contact information.
+
+- **Influence & Interest Analysis:**  
+  An analysis of stakeholder influence and interest using a matrix.
+
+- **Engagement Strategies:**  
+  Regular updates, presentations, and feedback sessions.
+
+- **Communication Plan:**  
+  See the Communication Plan section.
 
 ---
 
 ## Communication Plan
 
-- **Goals:** Keep stakeholders informed and involved  
-- **Methods:** Emails, project management tools, weekly meetings  
-- **Frequency:** Weekly (Monday & Friday) and as needed  
-- **Responsibilities:** PM for project-wide updates, Team Leads for internal team updates  
-- **Escalation Protocol:** Escalate unresolved issues to PM or Sponsor  
+- **Goals:**  
+  Ensure clear, timely, and effective communication among project team members and stakeholders.
+
+- **Information Distribution Methods:**  
+  Project newsletters, email updates, and project management tool notifications.
+
+- **Frequency of Communication:**  
+  Bi-weekly updates, immediate notifications for critical issues.
+
+- **Responsible Parties:**  
+  Project Manager and Communications Officer.
+
+- **Escalation Processes:**  
+  Defined paths for escalating issues based on severity and impact.
 
 ---
 
-## Quality Management
+## Quality Management Plan
 
-- **Objectives:** Deliver a reliable, secure, and high-quality Kanban Board  
-- **Standards:** Follow code standards, usability benchmarks, compliance metrics  
-- **Control Measures:** Code reviews, performance & security testing  
-- **Assurance:** User acceptance testing, compliance checks  
-- **Improvement:** Gather feedback post-launch for iterative upgrades  
+- **Quality Objectives:**  
+  Deliver a secure, user-friendly, and compliant OPT management portal.
+
+- **Standards and Metrics:**  
+  Usability metrics, security audits, compliance checks.
+
+- **Quality Control Processes:**  
+  Periodic code reviews, interface usability tests, security vulnerability assessments.
+
+- **Quality Assurance Processes:**  
+  Regular testing cycles, compliance verification.
+
+- **Continuous Improvement:**  
+  Feedback mechanisms post-deployment to enhance portal functionalities.
 
 ---
 
 ## Change Management Plan
 
-- **Change Control:** Formal change request process in place  
-- **Approval Levels:** Based on scope—Team Lead, PM, or IT approval  
-- **Tracking:** Change log maintained via project management software  
+- **Change Control Processes:**  
+  A structured process for submitting, reviewing, and approving changes.
+
+- **Approval Levels:**  
+  Specified levels of change authority from technical leads to project sponsors.
+
+- **Change Tracking:**  
+  Centralized change log maintained to track all changes.
 
 ---
 
-## Project Closure Plan
+## Project Closure Document
 
-- **Closure Criteria:**
-  - All deliverables completed
-  - UAT sign-off
-  - Final report submitted and approved  
+- **Closure Criteria:**  
+  Completion of all development, testing, and training objectives.
 
-- **Post-Project Review:** Lessons learned documented and discussed  
-- **Final Report:** Comprehensive breakdown of process, outcomes, and recommendations  
+- **Post-Project Review:**  
+  Evaluation of project performance against goals.
+
+- **Lessons Learned:**  
+  Key insights and recommendations for future projects.
+
+- **Final Project Report:**  
+  A detailed report summarizing project outcomes, budget usage, and stakeholder feedback.
 
 ---
 
 ## Meeting Schedule
 
-- **Frequency:** Weekly (Every Monday and Friday)  
-- **Participants:** Project Team & Selected Stakeholders  
+- **Frequency:**  
+  Weekly (Every Monday and Friday)
+
+- **Participants:**  
+  Project Team and Selected Stakeholders.
+
 - **Agenda:**
   - Progress updates
   - Risk/issues
   - Action planning
 
-- **Minutes:** Decisions and next steps documented  
-- **Action Items:** Tracked with owners and deadlines  
+- **Minutes:**  
+  Documented and circulated post-meeting.
+
+- **Action Items:**  
+  Tracked with owners and deadlines.
 
 ---
 
@@ -151,18 +201,17 @@ The **Kanban Board for OPT Portal** is a streamlined project management tool des
 ## Upcoming
 
 **Mobile UI Work in Progress**  
-We are actively working on developing mobile screen support for enhanced accessibility.
+We are actively working on mobile screen support for enhanced accessibility.
 
 ---
 
 ## Contributors
 
-Project Manager: Rahul Ashok Kodate  
-Project Team: 
-- Titiksha Ghosh
-- Hitesh Pant
-- Juan Diego Dumez Garcia
-- Sagar Yogesh Mehta 
-
----
+- Project Manager: Rahul Ashok Kodate  
+- Project Team: 
+  - Titiksha Ghosh
+  - Adithya Narayan Badanidiyoor
+  - Muskan Rajkumar Kachhela
+  - Rajas Telang
+  - Vishrutha Abbaiah 
 
