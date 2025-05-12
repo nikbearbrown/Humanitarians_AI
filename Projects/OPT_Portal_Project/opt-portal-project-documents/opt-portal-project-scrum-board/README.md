@@ -16,8 +16,12 @@ The board also includes essential project initiation documents:
 - Defined Scope
 - Project Timeline
 
+---
+
 ### Access the Scrum Board:
 [Figma Scrum Board Link](https://www.figma.com/board/mxMNKcci5hSlNWAdd406BF/OPT-Portal-and-Kanban-Board-Project?node-id=0-1&p=f&t=bwBJbO2SBQwCcgEK-0)
+
+---
 
 ### Scrum Board Screenshot (3 Months Board):
 ![Screenshot 2025-05-12 at 2 14 33 AM](https://github.com/user-attachments/assets/53adb621-3294-4c0f-8762-6999ee6d16b6)
