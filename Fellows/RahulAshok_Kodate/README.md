@@ -1,29 +1,33 @@
-Name: John A. Doe<br/>
-Email: example@volunteer.com<br/>
-Phone: (555)555-5555<br/>
+# Fellow Rahul Ashok Kodate
 
-Education:<br/>
-Northeastern University - Master of Sciences, Computer Software Engineering (May, 2024)
+**Name:** Rahul Ashok Kodate  
+**Email:** kodate.ra@northeastern.edu / kodate.rahulashok@humanitarians.ai 
 
-Professional Background:<br/>
-Awesome Example AI Company - Intern (January 2024 - April 2024)<br/>
-Best Cool Company - IT (June 2023 - December 2023)<br/>
-Not A Real University - Teachers Assistant (January 2023 - May 2023)<br/>
+**Phone:** 617-971-6509  
 
-Skills:<br/>
-Programming: C++, Java, Python, etc.<br/>
-Data Anlysis: Tableau, PowerBI, etc.<br/>
-Development Tools: SQL, Linux, Git, Azure Cloud, etc.<br/>
+## Education:  
+Northeastern University - Master of Science, Information Systems (May 2024) 
 
-Project: Super Great AI Tool<br/>
-Project Lead: Jane B. Doe<br/>
-Project Role: Data Engineer<br/>
-Interests: Front End/Back End Development, UI/UX Design, AI Engineer, etc.
+University of Mumbai- Bachelor of Engineering, Instrumentation Engineering (May 2018)
 
-Start Date with Humanitarians AI:<br/>
-04/01/2025
+## Professional Background:  
+Humanitarians.AI - Technical Project Manager (July 2024 - Present)  
+Vibrant Corporation - Technical Lead (June 2020 - August 2022)  
+Vibrant Corporation - Software Engineer (June 2018 - May 2020)
 
-Expected End Date or Duration of Commitment:<br/>
-04/30/2025
+## Skills:  
+**Programming:** Java, Python, JavaScript, C++  
+**Data Analysis:** SQL, Tableau, Python (Pandas, NumPy)  
+**Development Tools:** AWS, GCP, Azure, Docker, Kubernetes, Git, Jenkins  
 
-(EXAMPLE NOTES ONLY: the "Start Date with Humanitarians AI" never changes, use <br / > without the spaces to break up paragraphs)
+## Project: OPT Portal and Kanban Board  
+**Project Lead:** Rahul Ashok Kodate  
+**Project Role:** Technical Project Manager  
+**Interests:** Cloud Technologies, Agile Project Management, AI/ML Integration, Full-Stack Development, UI/UX Design  
+
+## Start Date with Humanitarians AI:  
+07/01/2024  
+
+## Expected End Date or Duration of Commitment:  
+06/30/2025  
+
