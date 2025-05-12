@@ -55,6 +55,8 @@ We are actively working on mobile-responsive layouts to enhance usability across
 
 - UI/UX Design Lead: Vishrutha Abbaiah  
 - Technical Project Manager: Rahul Ashok Kodate
+- Team: Titiksha Ghosh, Adithya Narayan Badanidiyoor, Muskan Rajkumar Kachhela, Rajas Telang
+
 
 ---
 
