@@ -1,112 +1,118 @@
-# Kanban Board – Phase 3 Requirements
+# OPT Portal Project – Requirements
 
-**Last Updated:** November 18, 2024  
-**Source:** Post Phase 2 Demo Review with Prof. Nik Bear Brown
-
-## Overview
-
-This document outlines the scope of **Phase 3** enhancements and functional requirements for the **Kanban Board Project**. These changes follow the feedback received during the Phase 2 demo meeting. The primary focus is on improving project visibility for executive stakeholders, refining user interface elements, and integrating updated project and volunteer data.
+This repository contains the detailed requirements for the **OPT Portal Project**, specifically for **Phase 2 and Phase 3** of the project. The goal is to provide a comprehensive understanding of the functionality, workflow, and features to be implemented in the system.
 
 ---
 
-## Requirements from Prof. Nik Bear Brown
+## Phase 2 Requirements – Timesheet Module
 
-1. **Company-Wide Project Visibility**
-   - Display a comprehensive list of all existing projects in the organization.
-   - Include clear, concise descriptions for each project in the list.
+### Team Members:
+- Gayathri Vummenthala
+- Rahul Ashok Kodate
+- Saurav Shaw
+- Rajas Telang
+- Visrutha Abbaiah Reddy
+- More TBD
 
-2. **Project Activity Tracking**
-   - Indicate which projects are currently active vs inactive.
-   - Show the current status of each active project (e.g., In Progress, Completed, On Hold).
+### Introduction:
+In **Phase 2**, the primary objective is to implement the **Timesheet module** within the OPT Portal. This feature will enable volunteers to efficiently log and update their weekly working hours. Below are the specific requirements for this module:
 
-3. **Source Code Access**
-   - Provide clickable GitHub repository links for each project.
-   - Specify the cloud hosting location (AWS, GCP, etc.) if applicable.
+### 1. User Roles and Permissions:
+- **User roles** need to be clearly defined, such as:
+  - Volunteers
+  - Project Managers/Mentors
+  - System Administrators
+- Define specific permissions for each role, such as viewing, submitting, approving, or rejecting timesheets.
 
-4. **CEO Dashboard Functionality**
-   - When a user logs in with the **CEO role**, they should see:
-     - All company projects
-     - Their current statuses (Active/Inactive)
-     - Assigned team members
-     - Hosting and repository details
+### 2. Submission Deadlines and Reminders:
+- Define the deadline for timesheet submissions (e.g., end of the week).
+- Set up automated reminders for volunteers who have not submitted their timesheets.
 
-5. **Search Functionality**
-   - Implement a **search bar** for users to search projects and volunteers dynamically from the admin/CEO interface.
+### 3. Approval Workflow:
+- Define the workflow for timesheet approval.
+- Project Managers/Mentors must approve or reject timesheets within a specified time period.
+- Implement automated escalation if timesheets are not approved within a set period (e.g., escalate to higher management).
 
-6. **Volunteer-Project Mapping**
-   - Clearly show which volunteers are working on which projects.
-   - Ensure this information is viewable from both the Admin and CEO dashboards.
+### 4. Email Notifications:
+- Customizable templates for email notifications.
+- Notifications for warnings, ultimate warnings, and approval/rejection of timesheets.
 
-7. **Project Metadata Update**
-   - Update all project details based on information provided by **Raghyna**.
+### 5. Warning System:
+- Track the number of warnings issued to each volunteer.
+- Option to reset the warning count after a specified period or based on performance improvements.
 
----
+### 6. Dashboard for Volunteers and Managers:
+- Volunteers: Track submitted timesheets, approval status, and warnings.
+- Managers: View and manage timesheets for their team, with sorting/filtering options based on approval status.
 
-## Frontend Team – Ideation & UI Requirements
+### 7. Reporting and Analytics:
+- Generate reports on volunteers' working hours, approval rates, and warning counts.
+- Weekly/monthly summaries for individuals and teams.
 
-1. **New Admin Page Design**
-   - A redesigned admin interface to accommodate the updated feature set.
-   - Should support easier navigation, project insights, and volunteer management.
+### 8. Data Export and Integration:
+- Option for exporting timesheet data to formats like CSV.
+- Integration with other systems such as HR or payroll systems.
 
-2. **Software Tour Integration**
-   - Incorporate a **software walkthrough** or onboarding tour to help new users (especially admins) understand system usage and functionalities.
-
-3. **People Page Enhancement**
-   - List all current volunteers with their:
-     - Name
-     - Role
-     - Assigned Projects
-     - Contact Email
-
----
-
-## Suggested Structure
-
-```
-
-kanban-board/
-├── backend/
-│   └── apis/
-│       ├── projects.js        # Project metadata, status, GitHub links
-│       ├── volunteers.js      # Volunteer-project mapping
-│       └── auth.js            # Role-based access (e.g., CEO, Admin)
-├── frontend/
-│   └── components/
-│       ├── AdminDashboard/
-│       ├── CEODashboard/
-│       ├── ProjectSearchBar/
-│       └── PeoplePage/
-├── public/
-│   └── software-tour/         # Files for the guided tour
-└── README.md
-
-```
+### 9. Security and Audit Trail:
+- Secure access to timesheet data.
+- Implement an audit trail to track changes made to timesheets, including who approved, declined, or modified the hours.
 
 ---
 
-## 📎 Resources and References
+## Phase 3 Requirements – Volunteer Management
 
-- [Kanban Project Repository](https://github.com/Humanitariansai/kanban-board-frontend)
-- [Figma Design File](https://www.figma.com/board/mxMNKcci5hSlNWAdd406BF/OPT-Portal-and-Kanban-Board-Project?node-id=0-1)
-- [Admin Flow (Demo Link)](https://drive.google.com/file/d/11V6_qcCGawr_gjUxdIlEBIRHR-y_nXRR/view?usp=sharing)
-- [PM Flow](https://drive.google.com/file/d/1rJV1LTtE3YtE-9_lFYp2PBUNeo7lhZj-/view?usp=sharing)
-- [Volunteer Flow](https://drive.google.com/file/d/1Q74YC5Rq5NJnia4a2-Jar5dXQ7q-Jm1-/view?usp=sharing)
+After the **Phase 2 demo meeting**, the **Phase 3 requirements** will be implemented. These requirements include functionality for managing volunteer profiles and project details.
+
+### Professor Nik Brown's Requirements:
+1. **Profile page for each volunteer**:
+   - Display all relevant volunteer information, such as:
+     - Start and end dates
+     - Project they are working on
+     - Status (active/inactive)
+   - A search bar to find volunteers using their **Volunteer ID**.
+
+### OPT Team Ideation and Requirements:
+1. **Role Management**:
+   - **Super User**: Manually adds the first **Admin** role.
+   - Admin can assign roles to other users (e.g., Admin/Project Manager, Project Manager, Volunteer).
+   - **Project Manager** cannot assign roles.
+
+2. **React State**:
+   - A React state will be used to select user roles, allowing the Super User to assign roles to users.
+  
+3. **Software Tour**:
+   - Integration with server APIs to allow the OPT Portal and Kanban Portal to interact.
+
+4. **Database Setup**:
+   - Set up the **OPT Portal database** on **AWS**.
+   - Ensure the Kanban team can retrieve volunteer data from the database.
+
+5. **Volunteer Details Page**:
+   - Display details of volunteers, including the projects they are working on.
+
+6. **Timesheet Error Resolution**:
+   - Address timesheet errors and provide resolution processes.
+
+7. **Application List**:
+   - Implement an "Accept" or "Decline" button for application management.
+   - Once an application is accepted, call the API to update it in the database and create the user.
 
 ---
 
-## 🧑‍💼 Maintainers
+## Conclusion
 
-- **Technical Project Manager**: Rahul Ashok Kodate (kodate.rahulashok@humanitarians.ai)
-- **Frontend Lead**: Pranjal Sharma
-- **Advisor**: Prof. Nik Bear Brown
+By implementing these phases, we aim to streamline volunteer management and timesheet tracking. These features will enhance transparency, accountability, and data accuracy, ensuring the project's success.
 
----
-
-## 📅 Timeline
-
-Phase 3 development and review to be completed by **December 2024**, with weekly deliverables and demo reviews.
+This repository serves as a living document, detailing the functional and technical requirements that will guide the development of the **OPT Portal** in the upcoming phases.
 
 ---
 
-For questions, please contact the project maintainers or refer to the Figma/Google Drive resources above.
-```
+## Project Contributors
+
+- **Project Manager**: Rahul Ashok Kodate  
+- **Team Members**:
+  - Gayathri Vummenthala
+  - Saurav Shaw
+  - Rajas Telang
+  - Visrutha Abbaiah Reddy
+  - Additional members TBD
