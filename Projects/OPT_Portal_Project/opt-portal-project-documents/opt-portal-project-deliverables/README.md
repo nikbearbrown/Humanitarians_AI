@@ -63,7 +63,6 @@ If you encounter any missing deliverables, discrepancies, or have suggestions fo
 
 ## Additional References
 - [OPT Portal Repository](https://github.com/Humanitariansai/OPT-Project)
-
 - [Project Demo Recordings and Figma Design Board](https://www.figma.com/board/mxMNKcci5hSlNWAdd406BF/OPT-Portal-and-Kanban-Board-Project?t=kEv8nKEaDgRTCqJn-0)
   
 This repository is an essential component of the OPT Portal project documentation framework. All team members are expected to refer to it regularly and ensure their weekly updates are properly reflected.
