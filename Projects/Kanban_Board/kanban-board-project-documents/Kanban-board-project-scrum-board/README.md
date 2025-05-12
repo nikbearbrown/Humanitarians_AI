@@ -25,6 +25,9 @@ The board also includes essential project initiation documents:
 ### Scrum Board Screenshot (3 Months Board):
 ![Screenshot 2025-05-12 at 2 14 33 AM](https://github.com/user-attachments/assets/53adb621-3294-4c0f-8762-6999ee6d16b6)
 
+### Scrum Board Screenshot (1 Month Board):
+![Screenshot 2025-05-12 at 2 29 29 AM](https://github.com/user-attachments/assets/ba077469-669f-42c1-ac22-4630b0ae8a23)
+
 ### Scrum Board Screenshot (Weekly Board):
 ![Screenshot 2025-05-12 at 2 15 16 AM](https://github.com/user-attachments/assets/ea191d04-8ab0-4bef-a880-83dad507ae69)
 
