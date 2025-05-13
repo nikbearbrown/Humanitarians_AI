@@ -21,7 +21,7 @@ Diycam - Data Scientist (June 2020 - August 2021)
 **Product:** Competitive Benchmarking, MVP Strategy, Stakeholder Engagement, Roadmap Execution  
 
 ## Project: OPT Portal and Kanban Board  
-**Project Lead:** Hitesh Pant  
+**Project Lead:** Rahul Ashok Kodate  
 **Project Role:** Backend Engineer  
 **Interests:** AWS, Node.js, API, OAuth 2.0, Restful API, Python, LLM, RAG, AI/ML Integration  
 
