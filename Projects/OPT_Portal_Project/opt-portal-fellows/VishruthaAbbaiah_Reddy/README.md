@@ -1,29 +1,34 @@
-Name: John A. Doe<br/>
-Email: example@volunteer.com<br/>
-Phone: (555)555-5555<br/>
+Fellow Vishrutha Abbaiah Reddy
+Name: Vishrutha Abbaiah Reddy
+Email: abbaiahreddy.v@northeastern.edu
 
-Education:<br/>
-Northeastern University - Master of Sciences, Computer Software Engineering (May, 2024)
+Phone: 857-308-8907
 
-Professional Background:<br/>
-Awesome Example AI Company - Intern (January 2024 - April 2024)<br/>
-Best Cool Company - IT (June 2023 - December 2023)<br/>
-Not A Real University - Teachers Assistant (January 2023 - May 2023)<br/>
+Education:
+Northeastern University - Master of Science, Computer Science (May 2024)
 
-Skills:<br/>
-Programming: C++, Java, Python, etc.<br/>
-Data Anlysis: Tableau, PowerBI, etc.<br/>
-Development Tools: SQL, Linux, Git, Azure Cloud, etc.<br/>
+New Horizon College of Engineering - Bachelor of Engineering, Information Science (May 2019)
 
-Project: Super Great AI Tool<br/>
-Project Lead: Jane B. Doe<br/>
-Project Role: Data Engineer<br/>
-Interests: Front End/Back End Development, UI/UX Design, AI Engineer, etc.
+Professional Background:
+Humanitarians.AI - Frontend Engineer (September 2024 - Present)
+Northeastern University - Graduate Teaching Assistant - Web Development (Januray 2023 - May 2024)
+Oracle Cerner - Software Engineer II (July 2021 - July 2022)
+Oracle Cerner - Software Engineer (July 2019 - July 2021)
+Oracle Cerner - Software Intern (January 2019 - June 2019)
 
-Start Date with Humanitarians AI:<br/>
-04/01/2025
 
-Expected End Date or Duration of Commitment:<br/>
-04/30/2025
+Skills:
+Programming: Java, Python, JavaScript, C/C++,HTML , Typescript, XML
+Data Analysis: SQL, Tableau, Python (Pandas, NumPy), R
+Development Tools: AWS, Docker, Kubernetes, Git, Jenkins, Netlify, Heroku, Figma
 
-(EXAMPLE NOTES ONLY: the "Start Date with Humanitarians AI" never changes, use <br / > without the spaces to break up paragraphs)
+Project: OPT Portal
+Project Lead: Rahul Ashok Kodate
+Project Role: Frontend Engineer
+Interests: Full-Stack Development, UI/UX Design, Frontend Development
+
+Start Date with Humanitarians AI:
+08/02/2024
+
+Expected End Date or Duration of Commitment:
+07/06/2025
