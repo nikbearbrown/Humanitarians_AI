@@ -28,4 +28,4 @@ Expected End Date or Duration of Commitment:<br/>
 04/30/2025
 
 (EXAMPLE NOTES ONLY: the "Start Date with Humanitarians AI" never changes, use <br / > without the spaces to break up paragraphs)<br/>
-(OPTIONAL FIELDS: Email, Phone and LinkedIn. If you're not comfortable filling in these fields you're not required to)
+(OPTIONAL FIELDS: Email, Phone and LinkedIn. If you're not comfortable filling in any of these fields you're not required to)
