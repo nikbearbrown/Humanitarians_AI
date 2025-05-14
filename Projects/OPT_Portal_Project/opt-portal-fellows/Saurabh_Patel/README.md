@@ -2,8 +2,6 @@ Fellow Saurabh Nitin Patel
 Name: Saurabh Nitin Patel
 Email: Patel.saura@northeastern.edu / patel.saurabh@humanitarians.ai
 
-Phone: 4437130656
-
 Education:
 Northeastern University - Master of Science, Project Management (DEC 2023)
 
