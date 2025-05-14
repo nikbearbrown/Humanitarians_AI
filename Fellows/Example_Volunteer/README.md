@@ -1,6 +1,7 @@
 Name: John A. Doe<br/>
 Email: example@volunteer.com<br/>
 Phone: (555)555-5555<br/>
+LinkedIn: https://www.linkedin.com/in/examplevolunteer/<br/>
 
 Education:<br/>
 Northeastern University - Master of Sciences, Computer Software Engineering (May, 2024)
@@ -26,4 +27,5 @@ Start Date with Humanitarians AI:<br/>
 Expected End Date or Duration of Commitment:<br/>
 04/30/2025
 
-(EXAMPLE NOTES ONLY: the "Start Date with Humanitarians AI" never changes, use <br / > without the spaces to break up paragraphs)
+(EXAMPLE NOTES ONLY: the "Start Date with Humanitarians AI" never changes, use <br / > without the spaces to break up paragraphs)<br/>
+(OPTIONAL FIELDS: Email, Phone and LinkedIn. If you're not comfortable filling in these fields you're not required to)
