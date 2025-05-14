@@ -1,19 +1,19 @@
 # Fellow Sagar Mehta
 
 **Name:** Sagar Mehta  
-**Email:** kodate.ra@northeastern.edu / kodate.rahulashok@humanitarians.ai 
+**Email:** mehta.saga@northeastern.edu
 
-**Phone:** 617-971-6509  
+**Phone:** 8573819416 
 
 ## Education:  
-Northeastern University - Master of Science, Information Systems (May 2024) 
+Northeastern University - Master of Science, Information Systems (Aug 2024) 
 
-University of Mumbai- Bachelor of Engineering, Instrumentation Engineering (May 2018)
+University of Mumbai - Bachelor of Science, Computer Engineering (June 2021)
 
 ## Professional Background:  
-Humanitarians.AI - Technical Project Manager (July 2024 - Present)  
-Vibrant Corporation - Technical Lead (June 2020 - August 2022)  
-Vibrant Corporation - Software Engineer (June 2018 - May 2020)
+Humanitarians.AI - UI/UX Designer (Jan 2025 - Present) 
+
+Medallia - Product Analyst (June 2021 - June 2022)
 
 ## Skills:  
 **Programming:** Java, Python, JavaScript, C++  
@@ -22,12 +22,11 @@ Vibrant Corporation - Software Engineer (June 2018 - May 2020)
 
 ## Project: OPT Portal and Kanban Board  
 **Project Lead:** Rahul Ashok Kodate  
-**Project Role:** Technical Project Manager  
-**Interests:** Cloud Technologies, Agile Project Management, AI/ML Integration, Full-Stack Development, UI/UX Design  
+**Project Role:** UI/UX Designer  
+**Interests:** UI/UX Design, Product Management, Solution Engineer  
 
 ## Start Date with Humanitarians AI:  
-07/01/2024  
+01/22/2025 
 
-## Expected End Date or Duration of Commitment:  
-06/30/2025  
+## Expected End Date or Duration of Commitment:    
 
