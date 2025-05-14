@@ -23,8 +23,8 @@ Oracle Cerner - Software Intern (January 2019 - June 2019)<br>
 
 ## Project: OPT Portal 
 **Project Lead:** Rahul Ashok Kodate  
-**Project Role:** Frontend Engineer
-**Interests:** Full-Stack Development, UI/UX Design, Frontend Development  
+**Project Role:** Frontend Engineer<br>
+**Interests:** Full-Stack Development, UI/UX Design, Frontend Development <br> 
 
 ## Start Date with Humanitarians AI:  
 08/02/2024  
