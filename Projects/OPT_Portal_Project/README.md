@@ -1,5 +1,9 @@
 # OPT Portal Project
 
+# Abstract
+
+The OPT Portal Project is a comprehensive web-based application designed to automate and streamline the Optional Practical Training (OPT) application process for international students and educational institutions. Functioning as a specialized hybrid of Jira and Monday.com tailored for OPT management, this full-stack solution addresses the administrative challenges by providing a centralized platform for document submission, application tracking, and status updates. The portal features dual interfaces: a student-facing system enabling document uploads and application monitoring, and an administrative dashboard for reviewing submissions and managing workflows similar to popular project management tools. Built using React.js for the frontend, Node.js and Express.js for the backend, and MongoDB for data storage, the application incorporates real-time notifications, secure document management, and role-based access control. The project is being developed by a structured team at Humanitarians.AI, with Rahul Ashok Kodate serving as the Technical Project Manager. The OPT Portal aims to enhance efficiency, transparency, and collaboration across university departments while providing international students with a self-service platform to navigate their OPT application journey through familiar project management interfaces.
+
 ## Project Overview
 
 The **OPT Portal** is a full-stack web application developed to streamline and automate the management of Optional Practical Training (OPT) applications for international students. It enables users to track their application status, submit necessary documents, and receive notifications related to the OPT process. The portal is designed for educational institutions and international students and serves to simplify the administrative burden of managing OPT applications.
