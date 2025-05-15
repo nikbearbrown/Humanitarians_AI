@@ -2,7 +2,7 @@
 
 **Name:** Vishrutha Abbaiah Reddy  
 **Email:** abbaiahreddy.v@northeastern.edu <br>
-**Phone:** 857-308-8907  
+**Linkedin:** https://www.linkedin.com/in/vishrutha-abbaiah <br>  
 
 ## Education:  
 Northeastern University - Master of Science, Computer Science (May 2024)<br>
