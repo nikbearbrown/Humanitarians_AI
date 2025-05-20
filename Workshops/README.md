@@ -1,203 +1,166 @@
-# AI Applications for Neurodiverse Learning
+# Northeastern University AI Summer Workshop Series 2025
 
+## Overview
 
-## Abstract
+Welcome to Northeastern University's AI Summer Workshop Series for 2025. Based on our comprehensive survey of 250 respondents, we've designed two alternating workshop tracks to meet the high demand for AI upskilling across our community. These workshops alternate weekly between "AI for Personal Branding" and "AI for Education" to provide a balanced learning experience addressing both personal career development and educational innovation.
 
-Recent advancements in artificial intelligence (AI) and natural language processing (NLP) have revolutionized educational approaches, particularly for neurodiverse learners, including individuals with autism, ADHD, dyslexia, and other cognitive differences. This survey explores various AI applications that enhance educational experiences for neurodiverse learners. Key areas of focus include generative AI, large language models (LLMs), chatbots, personalized learning, and assistive technologies. These tools have been applied to create tailored educational content, facilitate communication, predict educational outcomes, and analyze emotional responses. Additionally, the integration of virtual and augmented reality (VR/AR) offers interactive and immersive learning environments that align with the sensory needs of neurodiverse students. The paper highlights the importance of ensuring AI technologies are free from biases and transparent in their decision-making processes. By leveraging AI, educators can develop inclusive and effective learning environments that cater to the diverse needs of neurodiverse learners, ultimately enhancing their educational outcomes and engagement.
+## Series Structure
 
-## Introduction
+* **Duration**: 12 weeks (Summer 2025, starting mid-May)
+* **Format**: Hybrid with in-person attendance strongly encouraged (online option available)
+* **Session Length**: 1.5 hours per workshop
+* **Schedule**: Specific dates TBA - multiple time slots will be offered based on survey preferences
+* **Instructors**: Nina Harris and Prof. Nik Bear Brown
 
-Neurodiverse learners, including individuals with autism, ADHD, dyslexia, and other cognitive differences, often require tailored educational approaches to thrive academically. Recent advancements in artificial intelligence (AI) offer promising solutions to create more inclusive and effective learning environments. This paper explores various AI applications, such as generative AI, large language models (LLMs), chatbots, personalized learning, and assistive technologies, that enhance educational experiences for neurodiverse learners. Additionally, it discusses the role of multisensory teaching in leveraging AI to develop interactive and immersive educational content.
+## Workshop Calendar
 
-## Generative AI and Large Language Models
+| Week | Workshop | Track |
+|------|----------|-------|
+| 1 | Brand Foundation & Competitive Research | Personal Branding |
+| 2 | Prompt Engineering Fundamentals | AI for Education |
+| 3 | Website Architecture, Wireframing & Visual Identity | Personal Branding |
+| 4 | Vibe Coding with Claude | AI for Education |
+| 5 | Launch Your Website – Content & Visual Storytelling | Personal Branding |
+| 6 | AI Agents and Automation | AI for Education |
+| 7 | Storytelling + LinkedIn Optimization | Personal Branding |
+| 8 | Chatbots for Students and Professors | AI for Education |
+| 9 | Resume Creation – ATS-Friendly + Branded | Personal Branding |
+| 10 | AI Video Production and Presentation | AI for Education |
+| 11 | Final Presentations & Personal Brand Pitch Deck | Personal Branding |
+| 12 | Advanced AI Agents and Automation | AI for Education |
 
-Generative AI and large language models (LLMs) have the potential to revolutionize personalized learning for neurodiverse students. These models can create customized educational content that adapts to individual learning styles and needs, such as generating reading materials at varying difficulty levels or rephrasing complex concepts in simpler terms.
+**Note**: Specific dates TBA. Workshop schedule will begin mid-May 2025. Based on survey results, multiple options will be available including weekday afternoons (52% preference), weekday evenings (47% preference), and weekend afternoons (35% preference).
 
-### Reshaping the Educational Landscape of Tomorrow
+## Track 1: AI for Personal Branding
 
-Large Language Models (LLMs), like ChatGPT, can generate reading materials at varying difficulty levels or simplify complex concepts, making them accessible to a broader range of learners (Scarlett et al., 2023).
+This track focuses on leveraging AI tools to create a cohesive personal brand and online presence. Based on our survey data, 65.9% of respondents expressed high interest in AI for Personal Branding, making it our third most requested workshop topic.
 
-### Can We Trust AI-Generated Educational Content?
+### Workshop Topics
 
-AI-generated resources are perceived to be of equivalent quality to student-generated content, suggesting their viability as supplementary educational material (Denny et al., 2023).
+1. **Brand Foundation & Competitive Research**
+   * Theme: Know Yourself, Know Your Market
+   * Key Deliverables: Brand strategy document, Pinterest competitive analysis
 
-### Artificial Intelligence and Anthropogeny
+2. **Website Architecture, Wireframing & Visual Identity**
+   * Theme: From Strategy to Structure
+   * Key Deliverables: Figma wireframes, visual style guide, AI-generated brand visuals
 
-LLMs have met many longstanding goals in AI, positioning them as key tools in educational innovation (Sejnowski & Churchland, 2023).
+3. **Launch Your Website – Content & Visual Storytelling**
+   * Theme: Build & Brand the Site
+   * Key Deliverables: Website with initial content, strategic storytelling assets
 
-### LGM3A '23: 1st Workshop on Large Generative Models Meet Multimodal Applications
+4. **Storytelling + LinkedIn Optimization**
+   * Theme: Your Voice Online
+   * Key Deliverables: LinkedIn profile optimization, brand-aligned stories
 
-Combining visual and textual data inputs, LLMs enhance understanding and response accuracy (Wang et al., 2023).
+5. **Resume Creation – ATS-Friendly + Branded**
+   * Theme: Professional Packaging
+   * Key Deliverables: Two resumes (ATS-friendly and visually branded)
 
-### Does Lack of Knowledge and Hardship of Information Access Signify Powerful AI?
+6. **Final Presentations & Personal Brand Pitch Deck**
+   * Theme: Deliver the Brand of You
+   * Key Deliverables: Complete personal brand pitch deck, final presentation
 
-LLMs fill information gaps by providing precise responses and handling various tasks efficiently (Zahid & Joudar, 2023).
+## Track 2: AI for Education
 
-### Alignment of Language Agents
+This track explores how AI can transform educational practices for both educators and students. Our survey indicated strong interest in AI tools for education, with AI Agents and Automation (73.7%) being the most requested workshop topic overall.
 
-Advances in natural language processing systems, particularly large language models like GPT-3, highlight their potential applications in diverse settings (Kenton et al., 2023).
+### Workshop Topics
 
-### Exploring the Potential of Large Language Models and Generative Artificial Intelligence (GPT): Applications in Library and Information Science
+1. **Prompt Engineering Fundamentals**
+   * Theme: Mastering AI Communication
+   * Key Deliverables: Customized prompt engineering toolkit for education
 
-LLMs can perform sophisticated tasks with electronic information resources, aiding in interactive engagement, metadata extraction, indexing, and classification (Formanek, 2024).
+2. **Vibe Coding with Claude**
+   * Theme: AI-Assisted Programming for Educators
+   * Key Deliverables: Functional learning tool demonstrating code concepts
 
-### The (R)Evolution of Multimodal Large Language Models: A Survey
+3. **AI Agents and Automation**
+   * Theme: Building Educational Workflows
+   * Key Deliverables: Automated assignment submission and feedback system
 
-Multimodal large language models (MLLMs) are analyzed for their architecture, alignment strategies, tasks, datasets, benchmarks, and performance (Caffagni et al., 2024).
+4. **Chatbots for Students and Professors**
+   * Theme: 24/7 Learning Support
+   * Key Deliverables: Professor course management bot and Student learning assistant bot
 
-### Prototyping the Use of Large Language Models (LLMs) for Adult Learning Content Creation at Scale
+5. **AI Video Production and Presentation**
+   * Theme: Never Go Back to PowerPoint
+   * Key Deliverables: Cinematic presentation equivalent replacing traditional slides
 
-LLMs facilitate faster content creation without compromising quality, and further research is needed for strategic and ethical implementation in education (Leiker et al., 2023).
+6. **Advanced AI Agents and Automation**
+   * Theme: Creating Intelligent Educational Systems
+   * Key Deliverables: Integrated educational ecosystem with multiple AI agents
 
-### Large Language Model-Based Tools in Language Teaching to Develop Critical Thinking and Sustainable Cognitive Structures
+## Participant Experience
 
-Integrating LLM-based tools into education can develop critical thinking and sustainable cognitive structures (Joseph, 2023).
+### Who Should Attend
 
-### ModelGPT: Unleashing LLM's Capabilities for Tailored Model Generation
+* Graduate students (89% of survey respondents)
+* Faculty members
+* Professionals interested in AI applications
+* Those in Computer Science/IT (78% of survey audience) and Engineering (38%)
+* Participants from all AI knowledge levels, from beginners to experts
 
-ModelGPT generates AI models tailored to user-provided data or task descriptions, making AI models more accessible and user-friendly (Tang et al., 2024).
+### Participant Benefits
 
-### Transforming Assessment: The Impacts and Implications of Large Language Models and Generative AI
+* **Career Advancement**: Address the primary motivation of 82% of survey respondents
+* **Technology Currency**: Stay updated with cutting-edge AI applications (78% motivated by this)
+* **Practical Skills**: Gain hands-on experience with in-demand AI tools
+* **Flexible Participation**: Attend the full series or select individual workshops
+* **Digital Certificate**: Earn a Northeastern University digital certificate by attending at least half of either series (3+ workshops in a single track)
+* **Community Building**: In-person attendance is strongly encouraged to facilitate networking and collaboration
 
-The potential benefits and challenges of using LLMs and generative AI in assessments emphasize the need for AI literacy among assessment professionals (Hao et al., 2024).
+## Workshop Format
 
-### Do Generative Large Language Models Need Billions of Parameters?
+Each workshop follows a consistent structure:
 
-Optimizing large language models' size, performance, and computational resources through novel parameter-sharing methods provides insights for creating more efficient models (Gholami & Omar, 2023).
+1. **Conceptual Introduction** (20 minutes)
+   * Core concepts, principles, and relevant AI tools
 
-### Generative AI in the Era of Transformers: Revolutionizing Natural Language Processing with LLMs
+2. **Demonstrations** (25 minutes)
+   * Live examples of applications and implementations
 
-Transformer models, particularly LLMs like GPT, have a significant impact on NLP, enhancing human-computer interactions and addressing ethical concerns (Yadav, 2023).
+3. **Hands-on Lab** (35 minutes)
+   * Guided practical activities with immediate instructor support
 
-### AI-Assisted Learning with ChatGPT and Large Language Models: Implications for Higher Education
+4. **Q&A and Next Steps** (10 minutes)
+   * Discussion and preview of upcoming workshops
 
-Conversational LLMs like ChatGPT impact higher education by enhancing student learning and AI-assisted learning in universities (Laato et al., 2023).
+**Note on Attendance Format**: While the workshop series offers a hybrid format with online participation available, **in-person attendance is strongly encouraged** for optimal learning experience, hands-on support, and networking opportunities. Our survey showed that 46% of respondents preferred a hybrid format, but the interactive nature of these workshops is best experienced on-ground at Northeastern University.
 
-### Advancements and Applications of Generative Artificial Intelligence and Large Language Models on Business Management: A Comprehensive Review
+## Registration Information
 
-Generative AI and LLMs have transformative potential across various sectors, emphasizing responsible innovation for humanity's benefit (Linkon et al., 2024).
+* **Registration Opens**: May 1, 2025
+* **Northeastern Community**: FREE for all Northeastern students, faculty, and staff (registration required)
+* **External Participants**: FREE, but on-ground space priority will be given to Northeastern community members
 
-## Adaptive Learning Systems
+### Registration Process
 
-Adaptive learning systems enhance personalized learning experiences by integrating ubiquitous computing and distributed artificial intelligence techniques. These systems adapt to learners' preferences and tasks, providing personalized learning evaluations and content recommendations based on the learner’s context (Salazar et al., 2015).
+Registration will be required for all participants:
+* **Northeastern Community**: Registration link TBA
+* **External Participants**: Separate registration link TBA
 
-### AI-Enabled Intelligent Assistant (AIIA)
+Both Northeastern and external participants must register, but on-ground space priority will be given to Northeastern community members. External participants may be directed to online attendance if in-person sessions reach capacity.
 
-The AIIA leverages advanced AI and NLP techniques to provide personalized learning support, significantly impacting the development of AI-enabled Virtual Teaching Assistants (VTAs) (Sajja et al., 2023).
+### Digital Certificate Program
 
-### Universal Design for Learning (UDL)
+We are working of NEU certificate for completing either series.
 
-The UDL framework supports all learners by emphasizing flexibility and customization in instructional methods, utilizing technology to cater to diverse learning preferences (King-Sears, 2014).
+### Additional Costs
 
-## Chatbots for Personalized Support
+While the workshops are free, participants are expected to cover the costs of any external tools used that are not free. Many of the tools featured in the workshops offer free tiers or trial versions, but some premium features may require payment if participants choose to use them beyond the workshop scope.
 
-Chatbots, powered by AI, provide instant, personalized support to students, answering questions, and offering guidance tailored to their learning pace and preferences. Chatbots reduce student anxiety and improve engagement by offering non-judgmental, immediate assistance.
+## Technical Requirements
 
-### AI Chatbot-Based Learning: Alleviating Students' Anxiety in English Writing Classrooms
+* Laptop with reliable internet connection
+* Free accounts for: ChatGPT, Claude, Figma, Canva, and other workshop-specific tools
+* No prior AI experience required for introductory workshops
 
-AI chatbots like ChatGPT reduce students' anxiety in English writing classrooms by providing instant feedback and allowing students to learn at their own pace (Hawanti & Zubaydulloevna, 2023).
+## Contact Information
 
-### AI-Based Deep Learning Chatbot for Career and Personal Mentorship
+For questions or more information:
+* **Prof. Nik Bear Brown**: ni.brown@neu.edu
+* **Nina Harris**: n.harris@northeastern.edu
 
-AI-based chatbots provide students with support, guidance, and counseling for both their professional and personal queries, addressing their issues and doubts effectively (Sharma et al., 2023).
 
-### A Chatbot to Support Basic Students' Questions
-
-Chatbots assist students with administrative processes and general course-related questions, streamlining information retrieval and enhancing their overall academic experience (Santana et al., 2023).
-
-## Assistive Technologies
-
-AI-driven assistive technologies support neurodiverse learners by providing tools such as speech-to-text and text-to-speech applications. These technologies ensure that neurodiverse students can participate fully in educational activities, reducing barriers to learning.
-
-### AI-NLP Based Assistive Tool for Autistic and Mentally Retarded Children
-
-An NLP-based assistive tool aids in the education and training of autistic and mentally retarded children by utilizing NLP to bridge expressions and concepts through relevant images (Kiliçaslan et al., 2023).
-
-### Relevance of Neuroscience to Effective Education for Students with Learning Disabilities
-
-Neuroscience enhances education for students with learning disabilities by emphasizing early identification of learning problems and targeted interventions (Moats, 2004).
-
-### Assistive Technology Intervention in Dyslexia Disorder
-
-Assistive technologies improve reading fluency for dyslexic students, significantly aiding both children and adults with dyslexia (Patnoorkar et al., 2023).
-
-## AI-Driven and Interactive Technologies in Education and Healthcare
-
-Interactive and immersive educational content that combines visual, auditory, and tactile elements can be created using AI technologies. For example, virtual and augmented reality (VR/AR) applications offer engaging, multi-sensory learning experiences that cater to the unique sensory preferences of neurodiverse students.
-
-### Multi-platform Simulations Facilitate Interdisciplinary Instruction in Undergraduate Neuroscience
-
-Virtual laboratories using NEURON and Python facilitate interdisciplinary instruction in undergraduate neuroscience, encouraging interdisciplinary thinking and reducing barriers to entry (Donley et al., 2021).
-
-### Design and Development of Multi-sensory Interactive Training System
-
-A multi-sensory interactive training system incorporates human-computer interaction and a neural network recognition algorithm, offering a virtual environment that is highly reliable and adaptive to the needs of users (Yu-yi, 2009).
-
-### Interactive 3D User Interfaces for Exploring Neuroanatomy
-
-Interactive 3D simulations facilitate learning through engagement and immediate feedback, emphasizing the importance of internalizing a 3D map of the neuraxis for long-term retention (Hamza-Lup & Thompson, 2009).
-
-## Virtual and Augmented Reality
-
-VR/AR applications provide a dynamic and immersive way to present educational content, making learning more concrete and relatable. For neurodiverse learners, VR/AR can offer tailored experiences that align with their sensory needs, such as reducing visual clutter for students with ADHD or providing consistent routines and visual supports for students with autism.
-
-### Survey of Virtual Reality Applications in Neurodiverse Learning
-
-
-
-VR applications assist educators in understanding and empathizing with autistic children's behaviors, enhancing the school experiences of autistic learners (Camilleri et al., 2019).
-
-### Use of VR as a Learning Tool for Autistic Children
-
-VR can be used as a learning tool for autistic children, with potential applications in understanding autism and guiding treatment efforts (Strickland et al., 1996).
-
-### User-Centered VR Environments for ADHD
-
-User-centered VR environments support the educational needs of children with ADHD, showing positive perceptions of use and satisfaction (Cardona-Reyes et al., 2021).
-
-### VR in Education and Healthcare
-
-VR applications for autism intervention and other fields beyond entertainment offer significant potential in designing academic modules and serious games for intervention (Lahiri, 2020).
-
-### VR and AR in Education
-
-VR and AR improve the learning process by providing tailored experiences that align with the sensory needs of neurodiverse learners (Rana, 2021).
-
-### 3D Neuroanatomy Using HoloLens for Augmented Reality in Education
-
-Augmented reality and 3D technologies improve learning outcomes and help students integrate 2D images into a complex representation of the brain (Holman et al., 2018).
-
-### Advancing Cognitive Accessibility
-
-AI-driven technologies enhance cognitive accessibility for neurodiverse individuals by providing personalized learning experiences (Deetjen-Ruiz et al., 2024).
-
-### Fostering Shared Intentionality for Diverse Learners
-
-Cross-sensory interaction design and co-design promote inclusive learning, addressing the challenges and benefits of cognitive diversity in education (Barter et al., 2022).
-
-### Exploring the Efficacy of an IoT Device as a Sensory Feedback Tool
-
-An IoT device as a sensory feedback tool facilitates learning for neurodivergent students, promoting inclusivity in education (Sims et al., 2023).
-
-### Application of Artificial Intelligence in Interventions for Autistic Children
-
-AI applications in interventions for autistic children, including early diagnosis, monitoring, and game interaction, show significant effects and provide insights for future AI interventions for special groups (Li et al., 2022).
-
-### Conclusion
-
-AI applications hold significant promise for improving educational outcomes for neurodiverse learners. The integration of AI in education has shown potential in various domains, including generative AI, large language models (LLMs), chatbots, personalized learning systems, and assistive technologies. These tools create tailored educational content, facilitate communication, and predict educational outcomes, providing personalized support and interventions that cater to the unique needs of neurodiverse students.
-
-Key findings from the survey indicate that:
-
-1. **Generative AI and LLMs**: These technologies can revolutionize personalized learning by generating reading materials at varying difficulty levels, simplifying complex concepts, and creating tailored educational content. Their potential to provide personalized learning paths makes them invaluable tools in enhancing accessibility and understanding for neurodiverse learners.
-
-2. **Chatbots**: AI-powered chatbots offer instant, personalized support, answering questions, providing guidance, and identifying when students need additional resources. They help reduce student anxiety and improve engagement by offering non-judgmental, immediate assistance.
-
-3. **Assistive Technologies**: AI-driven assistive tools such as speech-to-text, text-to-speech, predictive text, and grammar correction tools support students with reading and writing difficulties. These technologies ensure that neurodiverse students can participate fully in educational activities, reducing barriers to learning.
-
-4. **Virtual and Augmented Reality (VR/AR)**: These technologies provide dynamic and immersive learning experiences that align with the sensory needs of neurodiverse learners. VR/AR can simulate real-world scenarios and abstract concepts, making learning more concrete and relatable. They also offer tailored experiences that enhance engagement and understanding for students with different cognitive profiles.
-
-The survey underscores the importance of ensuring that AI technologies are free from biases and transparent in their decision-making processes. As AI technology continues to advance, its potential to transform neurodiverse learning will only grow, paving the way for more inclusive and effective educational environments.
-
-By harnessing the power of AI, educators can create learning experiences that are more responsive to the individual needs of neurodiverse students. This approach not only enhances educational outcomes but also fosters a more inclusive and supportive educational landscape, where every learner has the opportunity to thrive.
-
+*This workshop series is based on a comprehensive survey of 250 respondents, with careful attention to participant preferences for format (hybrid), timing (weekday afternoons), and content (highest interest in AI Agents, Programming, and Personal Branding).*

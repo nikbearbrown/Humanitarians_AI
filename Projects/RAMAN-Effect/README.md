@@ -1,5 +1,7 @@
 # The RAMAN Effect: Advancing Public Health Surveillance through AI-Driven Spectroscopy in Wastewater-Based Epidemiology
 
+**[Inactive]**
+
 ## Table of Contents
 1. Introduction
 2. Wastewater-Based Epidemiology: Foundations and Applications

@@ -1,5 +1,6 @@
 
 # **Givelytics: Open-Source AI-Driven Donor Prospecting Tool**
+**[Inactive]**
 
 ## **1. Introduction**
 
