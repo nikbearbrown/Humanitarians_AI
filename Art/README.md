@@ -1,6 +1,5 @@
 # Case Interview Preparation
 
-Test 
 # Conversational Interviews
 This interview format aims to learn more about your background, interests, and future goals, while giving you an opportunity to understand our firm, Oliver Wyman. You can expect a dialogue about your achievements, experiences, interests, and career objectives. It's also a chance to inquire about Oliver Wyman.
 
