@@ -1,5 +1,14 @@
 # Kanban Board Project
 
+
+## Abstract
+
+The Kanban Board Project is a full-stack, real-time task management platform developed under the Humanitarians.AI initiative to streamline collaboration for distributed, cross-functional teams. Designed with Agile and Scrum principles at its core, the platform enables users to visually manage work through interactive Kanban boards with stages like To Do, In Progress, In Review, and Done.
+
+This cloud-ready application supports real-time updates, secure authentication, and modular architecture, making it ideal for NGOs, academic projects, hackathons, and remote engineering teams. It features a robust backend built with Node.js and Express, a dynamic frontend using React.js, and a MongoDB-powered database. With its extensible design, the platform enhances productivity, transparency, and team coordination across time zones.
+
+The project emphasizes scalable infrastructure, user-centric UI/UX design, and automated Agile workflows—delivered through CI/CD-enabled pipelines. It is an open-source initiative contributing to impact-driven technology for humanitarian collaboration.
+
 ## Project Overview
 
 The **Kanban Board Project** is a full-stack Agile task management platform built under the **Humanitarians.AI** initiative. This application empowers teams to organize work visually and manage workflows efficiently through a dynamic, real-time Kanban board. Users can drag and drop tasks, collaborate asynchronously, and track progress across customizable stages like **To Do**, **In Progress**, **In Review**, and **Done**.
