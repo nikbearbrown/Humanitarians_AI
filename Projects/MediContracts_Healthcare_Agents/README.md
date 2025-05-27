@@ -1,5 +1,9 @@
 # Enhanced Healthcare Agent System
 
+## Project Team : 
+- Shardul Deshmukh, Github: [@Shardul-NEU](https://github.com/Shardul-NEU)
+- Komal Albhar, Github: [@Komal-A99](https://github.com/Komal-A99)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Agent Contracts](#agent-contracts)

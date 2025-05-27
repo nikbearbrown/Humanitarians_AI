@@ -61,3 +61,6 @@ The platform integrates an LLM runtime using **OpenAI**, connects with various t
 - **Python**: For developing the backend infrastructure and API integrations.
 
 ---
+
+# Contributors:
+**Saranya Machavaram**
