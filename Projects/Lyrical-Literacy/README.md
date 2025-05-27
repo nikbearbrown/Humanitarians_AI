@@ -1,20 +1,6 @@
 # Lyrical Literacy
 Lyrical Literacy: Why Singing Works—A Neuroscientific Exploration of Brain Research*
 
-## Research Team 
-
-- Nik Bear Brown  
-- Payal Jain  
-- Stuti Dhebar  
-- Manimanya Reddy Jukanti Venkat  
-- Sanjana Karra  
-- Kusuma Pravallika Pilla  
-- Cole Harris  
-- Nina Harris  
-- Saurabh Patel  
-
-
-
 ## Project Overview
 
 **Lyrical Literacy** is a pioneering initiative from Humanitarians AI that harnesses artificial intelligence to enhance cognitive and language development through music. This research-based program explores the powerful intersection of neuroscience, music, and education to create personalized learning experiences for diverse populations.
