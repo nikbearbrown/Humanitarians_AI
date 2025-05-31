@@ -1,7 +1,0 @@
-playwright
-python-dotenv
-pandas
-requests
-openpyxl
-Pillow
-transformers
