@@ -1,0 +1,53 @@
+# Ananya Mahesh Shetty
+
+**Education**: Northeastern University – Master's in Data Analytics Engineering  
+**Position**: AI Agentic Engineer  
+**Email**: [shetty.ana@northeastern.edu](mailto:shetty.ana@northeastern.edu)  
+
+🔗 [GitHub](https://github.com/anna1802002)  
+🌐 [LinkedIn](https://www.linkedin.com/in/ananyashetty18/)
+
+---
+
+## Professional Background and Skills
+
+**Languages**: Python, SQL, C, HTML, CSS, JavaScript  
+**Databases**: MySQL, Microsoft SQL Server, MongoDB, PostgreSQL, NoSQL  
+**Tools & Libraries**: Power BI, Tableau, Spotfire, Excel, Power Pivot, Power Query, NumPy, Pandas, Matplotlib  
+**Data Engineering**: ETL pipeline development, Data Warehousing, Cloud Data Management  
+**Cloud Services**: Snowflake, Microsoft Azure, AWS  
+**Machine Learning**: Predictive modeling, data analysis, algorithm development
+
+---
+
+## Project Roles and Responsibilities
+
+Contributing to multiple AI-driven projects under **Humanitarians AI × Stellis Labs**:
+
+### Adam – The Quiz Maker & Eva – The Gamified Companion
+- Developed RAG-powered educational chatbots using LangFlow and ChromaDB for intelligent quiz generation and personalized learning.
+- Implemented gamification systems with badges, levels, and feedback to boost learner engagement and retention.
+- Designed complex LangFlow workflows with decider nodes for adaptive dialogue flows.
+- Authored documentation and created demo videos to support public launch and professional outreach via LinkedIn.
+
+### Simulation Engine
+- Designed a FastAPI-based backend architecture for an agent simulation framework.
+- Integrated PostgreSQL for structured data storage and created logging pipelines for event tracking.
+- Developed sample agents and a GitHub-driven project management structure with detailed ticketing.
+- Conducted live demos showcasing autonomous agent behavior and simulation results.
+
+### Deep Research Engine
+- Built a research automation tool that reduced literature review time by 80%.
+- Used transformer-based models (e.g., SentenceTransformers, GROQ) for semantic query expansion.
+- Created a unified multi-source retrieval layer across Arxiv, PubMed, and Google Scholar using the Model Context Protocol (MCP).
+- Engineered a hybrid ranking algorithm combining semantic similarity, authority scoring, and recency factors.
+- Implemented a DuckDB + ChromaDB caching strategy to enable 100% metadata traceability and minimize redundant API usage.
+- Developed a Gradio UI frontend allowing non-technical users to perform complex research queries easily.
+- Validated performance across 100+ papers, ensuring results under 5 minutes per batch query.
+
+---
+
+## Co-op Timeline
+
+**Start Date**: January 6, 2025  
+**End Date**: May 31, 2025
