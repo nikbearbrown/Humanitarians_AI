@@ -1,53 +1,47 @@
-# AI for Good
+# Humanitarians AI Website Content
 
-## Short Description
-Leveraging artificial intelligence to address global challenges through cutting-edge research and innovative software solutions. A comprehensive program that combines rigorous academic exploration with practical applications to create positive social impact and ensure AI benefits humanity.
+This repository contains the content for the Humanitarians AI website, a 501(c)(3) nonprofit organization dedicated to harnessing artificial intelligence for social good.
 
-## About the Project
-AI for Good combines our research and software development initiatives to create meaningful impact. Through research, we promote transparency, fairness, and accountability in AI systems. Through software development, we deploy practical solutions that tackle real-world problems. This dual approach ensures we not only advance ethical AI theory but also create tangible applications that demonstrate AI's potential for positive social change.
+## Repository Structure
 
-## Key Features
+This repository is organized into separate Markdown files for each page of the website:
 
-### AI Research
-We conduct and support research projects aimed at promoting transparency, fairness, and accountability in AI systems. Our research initiatives explore solutions that align with responsible AI development, addressing issues such as bias mitigation, explainability, and equitable access to technology.
+### Main Program Pages
+- `AI_for_Good_Web.md` - Overview of our AI for Good initiative that combines research and software development
+- `AI_for_Good_Details.md` - Detailed description of our AI for Good projects and initiatives
+- `Botspeak_Web.md` - Introduction to our Botspeak AI fluency framework
+- `Botspeak_Details.md` - Comprehensive explanation of the Botspeak methodology and curriculum
+- `Lyrical_Literacy_Web.md` - Overview of our Lyrical Literacy program combining music and AI
+- `Lyrical_Literacy_Details.md` - In-depth information about Lyrical Literacy research and implementation
+- `Fellows_Web.md` - Introduction to our Fellows Program for emerging AI researchers
+- `Fellows_Details.md` - Comprehensive guide to Fellows Program requirements and benefits
 
-### AI for Good Software
-We develop and deploy software solutions that harness AI to tackle real-world problems, emphasizing inclusivity and accessibility. These programs reflect our unwavering commitment to leveraging AI for positive social impact and ensuring that the benefits of AI technology are accessible to all.
+### Information Pages
+- `About_Humanitarians_AI.md` - Information about our organization, mission, vision, and team
+- `Contact.md` - Contact information for different departments and inquiries
+- `Mentors_Humanitarians_AI.md` - Guidelines for mentors working with our Fellows Program
+- `Privacy_Policy.md` - Our privacy policy and data handling practices
+- `Terms_of_Service.md` - Legal terms governing the use of our website
 
-## Project Details
+## Website Structure
 
-Under our AI for Good initiative, we're developing several innovative projects that demonstrate AI's potential for positive social impact:
+The website follows a consistent structure for each major program:
+1. A main page with a short description, about section, and key features
+2. A detailed page with comprehensive information about the program
 
-### Intelligent AI Books
-Personalized conversational learning tools that adapt to individual users' needs. Unlike static textbooks, these AI-powered books engage in dynamic dialogues that adjust explanations based on the learner's background, learning style, and goals. Professors can upload course materials to align the AI with their teaching style, while students receive tailored learning paths, instant feedback, and interactive content like simulations and dynamic graphs.
+## Content Purpose
 
-### Agentic AI Tools
-A comprehensive library of tools enabling AI systems to take purposeful actions through a four-step process: perceive (gather and process data), reason (understand tasks and generate solutions), act (execute tasks via external tools), and learn (continuously improve through feedback). These tools help AI agents solve complex problems across various domains while adhering to ethical standards.
+This content is designed for an informational website that serves as a digital business card for Humanitarians AI. The website showcases our four main initiatives:
 
-### PredictaBio
-AI-driven solutions for synthetic novel protein synthesis that create "recipes" for proteins with specific properties. This accelerates discovery and enables design of proteins tailored to applications in biotechnology, healthcare, and sustainability, improving efficiency and reducing research costs.
+1. **Fellows Program** - Mentoring emerging AI researchers and practitioners
+2. **AI for Good** - Research and software development for social impact
+3. **Lyrical Literacy** - Enhancing cognitive development through music and AI
+4. **Botspeak** - Teaching effective communication with large language models
 
-### Project Dewey Educational Chatbots
-Custom AI assistants for educational settings, including:
-- Ada for introductory calculus
-- Newton for introductory physics
-- Grace for algorithms courses
+## Usage
 
-These chatbots align with course syllabi, integrate rich media and interactive simulations, and provide scaffolding through Socratic questioning to help students understand complex concepts without giving direct answers.
+Web developers should use these Markdown files as the content source for building the corresponding pages on the Humanitarians AI website. Each file contains properly formatted content that can be converted to HTML while preserving the structure and emphasis.
 
-### Alfalfa.AI
-AI-powered platform supporting small and artisanal cannabis farmers by helping them navigate legal complexities, secure capital through blockchain-powered cannabis futures, and optimize crop production with real-time data. The project aims to transform rural economies by enabling farmers to overcome barriers to legal cannabis sales and connect with global markets.
+## Contact
 
-### The RAMAN Effect Project
-AI-driven public health innovation using Raman Spectroscopy in Wastewater-Based Epidemiology to detect pathogens and pollutants. By combining Surface-Enhanced Raman Spectroscopy with deep learning and generative AI, the project enables faster, more accurate analysis of complex spectral data for real-time, cost-effective public health monitoring on a global scale.
-
-### Cognitive Type Project
-AI-powered typography solutions creating smarter, more accessible fonts through generative AI, cognitive science, and open-source tools. The "Text to Type" foundational models boost online ad engagement, enhance children's reading experiences, support individuals with dyslexia through personalized typefaces, and analyze typography's impact on readability and memory.
-
-### Synthetic Personas
-AI tools assisting researchers and survey methodologists by creating data-driven synthetic personas that incorporate Big Five personality traits and demographic data. These realistic, behaviorally diverse personas enable early-stage survey evaluation, enhance methodological rigor, and promote more representative research outcomes.
-
-### Cat Connection
-AI-powered customer support chatbot (CatBot) for cat shelters that streamlines adoption inquiries, assists prospective adopters, and promotes senior and special needs cat adoptions. By integrating real-time shelter data and personality matching algorithms, CatBot provides personalized adoption recommendations, answers frequently asked questions, and improves the overall adoption experience.
-
-Through these diverse projects, our AI for Good initiative demonstrates how artificial intelligence can be harnessed to address pressing social challenges while upholding principles of ethical development, inclusivity, and accessibility.
+For questions about this content, please contact info@humanitarians.ai
