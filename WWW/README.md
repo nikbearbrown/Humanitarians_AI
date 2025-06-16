@@ -15,6 +15,7 @@ This repository is organized into separate Markdown files for each page of the w
 - `Lyrical_Literacy_Details.md` - In-depth information about Lyrical Literacy research and implementation
 - `Fellows_Web.md` - Introduction to our Fellows Program for emerging AI researchers
 - `Fellows_Details.md` - Comprehensive guide to Fellows Program requirements and benefits
+- `Home.md` - Landing page content showcasing our mission and key programs
 
 ### Information Pages
 - `About_Humanitarians_AI.md` - Information about our organization, mission, vision, and team
@@ -25,9 +26,10 @@ This repository is organized into separate Markdown files for each page of the w
 
 ## Website Structure
 
-The website follows a consistent structure for each major program:
-1. A main page with a short description, about section, and key features
-2. A detailed page with comprehensive information about the program
+The website follows a consistent structure:
+1. A lightweight home page that introduces our mission and directs visitors to detailed program pages
+2. Program pages with a short description, about section, and key features
+3. Detailed pages with comprehensive information about each program
 
 ## Content Purpose
 
@@ -37,6 +39,8 @@ This content is designed for an informational website that serves as a digital b
 2. **AI for Good** - Research and software development for social impact
 3. **Lyrical Literacy** - Enhancing cognitive development through music and AI
 4. **Botspeak** - Teaching effective communication with large language models
+
+The site also highlights our partnerships with organizations including Northeastern, Kinesso, PredictaBio, Squark, ArrowDx, and Bear Brown & Company.
 
 ## Usage
 
