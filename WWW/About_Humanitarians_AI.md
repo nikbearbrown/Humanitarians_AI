@@ -32,10 +32,13 @@ A series of YouTube videos, hybrid workshops, and learning tools designed to tea
 Founder/Chief Executive Officer
 
 ### Nina Harris
-Founder/Chief Branding Officer
+Founder/Chief Creative Officer
 
 ### Megha Patel
 Founder
+
+### Robert Cole Harris
+Director/Human Resources
 
 ## Join Our Mission
 
