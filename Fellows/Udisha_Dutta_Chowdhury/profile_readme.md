@@ -38,7 +38,7 @@ MLOps: MLflow, Airflow, GitHub, Prefect
 ML: Scikit-learn, PyTorch, Pandas, NumPy, XGBoost, LLMs, RAG
 
 
-## Project: End-to-End Cyber-Physical Systems with Time-Series Forecasting\
+## Project: End-to-End Cyber-Physical Systems with Time-Series Forecasting
 
 Project Repo: https://github.com/Humanitariansai/Cyber-Physical-Systems
 
