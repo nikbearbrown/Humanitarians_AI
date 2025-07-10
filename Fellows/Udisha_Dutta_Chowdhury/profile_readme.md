@@ -50,4 +50,4 @@ Interests: AI/ML, IoT Systems, Time-Series Forecasting
 06/30/2025
 
 ## Expected End Date or Duration of Commitment:
-07/31/2025
+
