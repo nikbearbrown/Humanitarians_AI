@@ -258,9 +258,11 @@ Modify `generate_rag_response` in `src/query_engine/rag.py`
 - Switch to in-memory store for testing
 
 ## 🤝 Contributing
+### Contributors
+- Rushikesh Karwankar(https://www.linkedin.com/in/rushikesh-karwankar)
+- Yamini Manral (https://www.linkedin.com/in/yaminimanral)
 
 Contributions are welcome!
-
 1. Fork the repo
 2. Create your feature branch
 3. Commit changes

@@ -1,0 +1,3 @@
+# Midjourney Prompt Patterns
+
+
