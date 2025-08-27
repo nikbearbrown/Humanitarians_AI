@@ -112,7 +112,7 @@ The first screenshot displays the comprehensive Profitability Framework page, de
 - Detailed explanatory content covering revenue analysis, cost structure examination, and volume drivers
 - Professional diagram integration showing the complete profitability analysis tree structure
 
-<img width="2134" height="1212" alt="image" src="https://github.com/user-attachments/assets/236e0458-a6b5-482f-b89c-9166ac0bc29b" />
+<img width="2069" height="1263" alt="image" src="https://github.com/user-attachments/assets/87cec01e-f53b-454c-af24-45c4f53d3044" />
 
 #### **Figure 2: Strategic Case Interview Methodology**
 The second screenshot showcases the Strategic Approach to Case Interviews content, illustrating the system's pedagogical framework integration:
@@ -121,7 +121,7 @@ The second screenshot showcases the Strategic Approach to Case Interviews conten
 - Comprehensive coverage of problem comprehension, structuring, analysis, and recommendation phases
 - Educational content that maintains academic rigor while remaining accessible to learners
 
-<img width="2069" height="1263" alt="image" src="https://github.com/user-attachments/assets/87cec01e-f53b-454c-af24-45c4f53d3044" />
+<img width="2134" height="1212" alt="image" src="https://github.com/user-attachments/assets/236e0458-a6b5-482f-b89c-9166ac0bc29b" />
 
 #### **Figure 3: Common Business Frameworks Integration**
 The third screenshot demonstrates the integration of foundational analytical tools including SWOT Matrix and PESTEL Analysis:
